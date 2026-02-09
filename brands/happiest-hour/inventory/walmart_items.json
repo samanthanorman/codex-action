@@ -1,41 +1,27 @@
 [
   {
     "mart": "WALMART_US",
-    "sku": "697045155828",
+    "sku": "AL-2X6U-SROK",
     "condition": "New",
     "availability": "Out_of_stock",
-    "wpid": "26SRRUHJIV17",
-    "upc": "697045155828",
-    "gtin": "00697045155828",
-    "productName": "AHAVA Dead Sea Essentials Aloe Vera Soothing & Detoxifying Hand Cream 3.4 fl oz",
-    "shelf": "[\"Home Page\",\"Premium Beauty\",\"Premium Bath & Body\",\"Premium Hand Lotions & Foot Creams\"]",
-    "productType": "Hand Creams & Lotions",
+    "wpid": "63VE3QPI4813",
+    "upc": "812673015027",
+    "gtin": "00812673015027",
+    "productName": "Hydrangea Printed Standard Birdhouse",
+    "shelf": "[\"Home Page\",\"Patio & Garden\",\"Patio & Outdoor Decor\",\"Bird Houses\",\"Shop All Bird Houses\"]",
+    "productType": "Bird Houses",
     "price": {
       "currency": "USD",
-      "amount": 24.0
+      "amount": 34.95
     },
-    "publishedStatus": "SYSTEM_PROBLEM",
+    "publishedStatus": "UNPUBLISHED",
     "unpublishedReasons": {
       "reason": [
-        "This item was unpublished as it was listed in a cosmetics category, which is restricted to certain sellers. You can request approval to sell through Walmart's Marketplace ||enhanced vetting program@@@https://seller.Walmart.com/home?supporthub=contact-support&openForm=TDRfX0wzX1NlbGxlciBFbGlnaWJpbGl0eSBmb3IgUmVzdH||. If you believe this was done in error, submit an appeal in the Seller Center Unpublished Items page."
+        "This item is unpublished because the End Date has passed. Update the item's 'Site End Date' field to a future date to publish the item. Learn more about ||item reactivation@@@https://marketplacelearn.walmart.com/guides/Catalog%20management/Item%20management/Reactivate-an-item-in-seller-center?locale=en-US||"
       ]
     },
     "lifecycleStatus": "ARCHIVED",
-    "isDuplicate": false,
-    "variantGroupId": "00697045155897",
-    "variantGroupInfo": {
-      "isPrimary": false,
-      "groupingAttributes": [
-        {
-          "name": "size",
-          "value": "3.4 oz"
-        },
-        {
-          "name": "actual_color",
-          "value": "Cream"
-        }
-      ]
-    }
+    "isDuplicate": false
   },
   {
     "mart": "WALMART_US",
@@ -73,18 +59,66 @@
   },
   {
     "mart": "WALMART_US",
-    "sku": "RZ-PEC9-O9MV",
+    "sku": "1E-IY91-7YOV",
     "condition": "New",
     "availability": "In_stock",
-    "wpid": "7D898EVG1PS6",
-    "upc": "818929025352",
-    "gtin": "00818929025352",
-    "productName": "Red V Collagen Hydrating Cream",
-    "shelf": "[\"Home Page\",\"Health and Medicine\",\"Sports Medicine & Injury Recovery Solution\",\"Optimize Performance\",\"Look Good, Feel Good\",\"Prep Your Skin for the Gym\"]",
+    "wpid": "5L36SKVF4KDU",
+    "upc": "8714982170645",
+    "gtin": "08714982170645",
+    "productName": "Esschert Design ZYCT57 Wide Mouth Terrarium Bottle, Medium",
+    "shelf": "[\"Home Page\",\"Pets\",\"Reptiles\",\"Terrariums\"]",
+    "productType": "Terrariums",
+    "price": {
+      "currency": "USD",
+      "amount": 29.99
+    },
+    "publishedStatus": "UNPUBLISHED",
+    "unpublishedReasons": {
+      "reason": [
+        "This item is unpublished because the End Date has passed. Update the item's 'Site End Date' field to a future date to publish the item. Learn more about ||item reactivation@@@https://marketplacelearn.walmart.com/guides/Catalog%20management/Item%20management/Reactivate-an-item-in-seller-center?locale=en-US||"
+      ]
+    },
+    "lifecycleStatus": "ARCHIVED",
+    "isDuplicate": false
+  },
+  {
+    "mart": "WALMART_US",
+    "sku": "8809639172469",
+    "condition": "New",
+    "availability": "In_stock",
+    "wpid": "6BZVYSD7TTL2",
+    "upc": "8809639172469",
+    "gtin": "08809639172469",
+    "productName": "FARMSTAY BLACK SNAIL & PEPTIDE9 PERFECT EMULSION 120ml",
+    "shelf": "[\"Home Page\",\"Beauty\",\"Skincare\",\"Skin Care Concern\",\"Skin Care Products for Dry Skin\"]",
     "productType": "Facial Moisturizers",
     "price": {
       "currency": "USD",
-      "amount": 28.0
+      "amount": 18.2
+    },
+    "publishedStatus": "SYSTEM_PROBLEM",
+    "unpublishedReasons": {
+      "reason": [
+        "This item was unpublished as it was listed in a cosmetics category, which is restricted to certain sellers. You can request approval to sell through Walmart's Marketplace ||enhanced vetting program@@@https://seller.Walmart.com/home?supporthub=contact-support&openForm=TDRfX0wzX1NlbGxlciBFbGlnaWJpbGl0eSBmb3IgUmVzdH||. If you believe this was done in error, submit an appeal in the Seller Center Unpublished Items page."
+      ]
+    },
+    "lifecycleStatus": "RETIRED",
+    "isDuplicate": false
+  },
+  {
+    "mart": "WALMART_US",
+    "sku": "036179000626",
+    "condition": "New",
+    "availability": "In_stock",
+    "wpid": "0YW9NSXYONJG",
+    "upc": "036179000626",
+    "gtin": "00036179000626",
+    "productName": "mini whitening system",
+    "shelf": "[\"Home Page\",\"Premium Beauty\",\"Premium Beauty Tech & Skin Devices\",\"Premium Oral Care\"]",
+    "productType": "Teeth Whitening",
+    "price": {
+      "currency": "USD",
+      "amount": 13.99
     },
     "publishedStatus": "SYSTEM_PROBLEM",
     "unpublishedReasons": {
@@ -97,24 +131,23 @@
   },
   {
     "mart": "WALMART_US",
-    "sku": "costco3pc20",
+    "sku": "8",
     "condition": "New",
-    "availability": "Out_of_stock",
-    "wpid": "3CNS61LMTJ7B",
-    "upc": "686457206372",
-    "gtin": "00686457206372",
-    "productName": "SOME BY MI Aha.Bha.Pha 30Days Miracle Serum 50ml (1.7oz)",
-    "shelf": "[\"Home Page\",\"Beauty\",\"Skincare\",\"Facial Serums and Treatments\",\"Facial Treatments\"]",
-    "productType": "Face Serums",
+    "availability": "In_stock",
+    "wpid": "7IB9923WX9PJ",
+    "upc": "096549973158",
+    "gtin": "00096549973158",
+    "productName": "Dots Designed Super Comfort Top Half Cushion Crew-High Compression Socks - Fresco",
+    "shelf": "[\"Home Page\",\"Clothing\",\"Womens Clothing\",\"Womens Socks, Hosiery & Tights\",\"Womens Socks\",\"Womens Crew Socks\"]",
+    "productType": "Socks",
     "price": {
       "currency": "USD",
-      "amount": 15.99
+      "amount": 14.0
     },
-    "publishedStatus": "SYSTEM_PROBLEM",
+    "publishedStatus": "UNPUBLISHED",
     "unpublishedReasons": {
       "reason": [
-        "This item was unpublished as it was listed in a cosmetics category, which is restricted to certain sellers. You can request approval to sell through Walmart's Marketplace ||enhanced vetting program@@@https://seller.Walmart.com/home?supporthub=contact-support&openForm=TDRfX0wzX1NlbGxlciBFbGlnaWJpbGl0eSBmb3IgUmVzdH||. If you believe this was done in error, submit an appeal in the Seller Center Unpublished Items page.",
-        "This item is prohibited due to a Walmart policy, in which Walmart has partnered with select brands. For more details, create a case for Partner Support and include the code BIZ. "
+        "This item is unpublished because the End Date has passed. Update the item's 'Site End Date' field to a future date to publish the item. Learn more about ||item reactivation@@@https://marketplacelearn.walmart.com/guides/Catalog%20management/Item%20management/Reactivate-an-item-in-seller-center?locale=en-US||"
       ]
     },
     "lifecycleStatus": "RETIRED",
@@ -146,23 +179,23 @@
   },
   {
     "mart": "WALMART_US",
-    "sku": "od25",
+    "sku": "8809707277898",
     "condition": "New",
     "availability": "Out_of_stock",
-    "wpid": "2IH3B3WEC3FN",
-    "upc": "10853927007488",
-    "gtin": "10853927007488",
-    "productName": "STRONG Powder-Free Vinyl Food Service Gloves, Large, Clear, 100 Gloves Per Box, Case Of 10 Boxes",
-    "shelf": "[\"Home Page\",\"Health and Medicine\",\"First Aid\",\"Vinyl Gloves\"]",
-    "productType": "Disposable Gloves",
+    "wpid": "43ZJY3QXKAH1",
+    "upc": "8809612852562",
+    "gtin": "08809612852562",
+    "productName": "[ Innisfree ] Green Tea Balancing Lotion EX 160ml (5.41 fl.oz)",
+    "shelf": "[\"Home Page\",\"Premium Beauty\",\"Premium Bath & Body\",\"Premium Body Lotions\"]",
+    "productType": "Facial Moisturizers",
     "price": {
       "currency": "USD",
-      "amount": 77.0
+      "amount": 22.0
     },
-    "publishedStatus": "UNPUBLISHED",
+    "publishedStatus": "SYSTEM_PROBLEM",
     "unpublishedReasons": {
       "reason": [
-        "This item is unpublished because the End Date has passed. Update the item's 'Site End Date' field to a future date to publish the item. Learn more about ||item reactivation@@@https://marketplacelearn.walmart.com/guides/Catalog%20management/Item%20management/Reactivate-an-item-in-seller-center?locale=en-US||"
+        "This item was unpublished as it was listed in a cosmetics category, which is restricted to certain sellers. You can request approval to sell through Walmart's Marketplace ||enhanced vetting program@@@https://seller.Walmart.com/home?supporthub=contact-support&openForm=TDRfX0wzX1NlbGxlciBFbGlnaWJpbGl0eSBmb3IgUmVzdH||. If you believe this was done in error, submit an appeal in the Seller Center Unpublished Items page."
       ]
     },
     "lifecycleStatus": "ARCHIVED",
@@ -182,6 +215,30 @@
     "price": {
       "currency": "USD",
       "amount": 69.97
+    },
+    "publishedStatus": "UNPUBLISHED",
+    "unpublishedReasons": {
+      "reason": [
+        "This item is unpublished because the End Date has passed. Update the item's 'Site End Date' field to a future date to publish the item. Learn more about ||item reactivation@@@https://marketplacelearn.walmart.com/guides/Catalog%20management/Item%20management/Reactivate-an-item-in-seller-center?locale=en-US||"
+      ]
+    },
+    "lifecycleStatus": "ARCHIVED",
+    "isDuplicate": false
+  },
+  {
+    "mart": "WALMART_US",
+    "sku": "od25",
+    "condition": "New",
+    "availability": "Out_of_stock",
+    "wpid": "2IH3B3WEC3FN",
+    "upc": "10853927007488",
+    "gtin": "10853927007488",
+    "productName": "STRONG Powder-Free Vinyl Food Service Gloves, Large, Clear, 100 Gloves Per Box, Case Of 10 Boxes",
+    "shelf": "[\"Home Page\",\"Health and Medicine\",\"First Aid\",\"Vinyl Gloves\"]",
+    "productType": "Disposable Gloves",
+    "price": {
+      "currency": "USD",
+      "amount": 77.0
     },
     "publishedStatus": "UNPUBLISHED",
     "unpublishedReasons": {
@@ -256,18 +313,18 @@
   },
   {
     "mart": "WALMART_US",
-    "sku": "8809707277898",
+    "sku": "697045155828",
     "condition": "New",
     "availability": "Out_of_stock",
-    "wpid": "43ZJY3QXKAH1",
-    "upc": "8809612852562",
-    "gtin": "08809612852562",
-    "productName": "[ Innisfree ] Green Tea Balancing Lotion EX 160ml (5.41 fl.oz)",
-    "shelf": "[\"Home Page\",\"Premium Beauty\",\"Premium Bath & Body\",\"Premium Body Lotions\"]",
-    "productType": "Facial Moisturizers",
+    "wpid": "26SRRUHJIV17",
+    "upc": "697045155828",
+    "gtin": "00697045155828",
+    "productName": "AHAVA Dead Sea Essentials Aloe Vera Soothing & Detoxifying Hand Cream 3.4 fl oz",
+    "shelf": "[\"Home Page\",\"Premium Beauty\",\"Premium Bath & Body\",\"Premium Hand Lotions & Foot Creams\"]",
+    "productType": "Hand Creams & Lotions",
     "price": {
       "currency": "USD",
-      "amount": 22.0
+      "amount": 24.0
     },
     "publishedStatus": "SYSTEM_PROBLEM",
     "unpublishedReasons": {
@@ -276,79 +333,21 @@
       ]
     },
     "lifecycleStatus": "ARCHIVED",
-    "isDuplicate": false
-  },
-  {
-    "mart": "WALMART_US",
-    "sku": "8809656866655",
-    "condition": "New",
-    "availability": "Out_of_stock",
-    "wpid": "67WRHCW6E4GW",
-    "upc": "8809663575298",
-    "gtin": "08809663575298",
-    "productName": "It'S SKIN LI Soothing Cream with Licorice Extract & Guaiazulene - Smooth Finishing Redness Relief Face Shield- Skin Barrier Strengthening Moisturizer with Panthenol, 1.85 oz.",
-    "shelf": "[\"Home Page\",\"Beauty\",\"Skincare\",\"Skin Care Concern\",\"Skin Care Products for Dry Skin\"]",
-    "productType": "Facial Moisturizers",
-    "price": {
-      "currency": "USD",
-      "amount": 28.0
-    },
-    "publishedStatus": "SYSTEM_PROBLEM",
-    "unpublishedReasons": {
-      "reason": [
-        "This item was unpublished as it was listed in a cosmetics category, which is restricted to certain sellers. You can request approval to sell through Walmart's Marketplace ||enhanced vetting program@@@https://seller.Walmart.com/home?supporthub=contact-support&openForm=TDRfX0wzX1NlbGxlciBFbGlnaWJpbGl0eSBmb3IgUmVzdH||. If you believe this was done in error, submit an appeal in the Seller Center Unpublished Items page."
+    "isDuplicate": false,
+    "variantGroupId": "00697045155897",
+    "variantGroupInfo": {
+      "isPrimary": false,
+      "groupingAttributes": [
+        {
+          "name": "size",
+          "value": "3.4 oz"
+        },
+        {
+          "name": "actual_color",
+          "value": "Cream"
+        }
       ]
-    },
-    "lifecycleStatus": "ARCHIVED",
-    "isDuplicate": false
-  },
-  {
-    "mart": "WALMART_US",
-    "sku": "8",
-    "condition": "New",
-    "availability": "In_stock",
-    "wpid": "7IB9923WX9PJ",
-    "upc": "096549973158",
-    "gtin": "00096549973158",
-    "productName": "Dots Designed Super Comfort Top Half Cushion Crew-High Compression Socks - Fresco",
-    "shelf": "[\"Home Page\",\"Clothing\",\"Womens Clothing\",\"Womens Socks, Hosiery & Tights\",\"Womens Socks\",\"Womens Crew Socks\"]",
-    "productType": "Socks",
-    "price": {
-      "currency": "USD",
-      "amount": 14.0
-    },
-    "publishedStatus": "UNPUBLISHED",
-    "unpublishedReasons": {
-      "reason": [
-        "This item is unpublished because the End Date has passed. Update the item's 'Site End Date' field to a future date to publish the item. Learn more about ||item reactivation@@@https://marketplacelearn.walmart.com/guides/Catalog%20management/Item%20management/Reactivate-an-item-in-seller-center?locale=en-US||"
-      ]
-    },
-    "lifecycleStatus": "RETIRED",
-    "isDuplicate": false
-  },
-  {
-    "mart": "WALMART_US",
-    "sku": "1E-IY91-7YOV",
-    "condition": "New",
-    "availability": "In_stock",
-    "wpid": "5L36SKVF4KDU",
-    "upc": "8714982170645",
-    "gtin": "08714982170645",
-    "productName": "Esschert Design ZYCT57 Wide Mouth Terrarium Bottle, Medium",
-    "shelf": "[\"Home Page\",\"Pets\",\"Reptiles\",\"Terrariums\"]",
-    "productType": "Terrariums",
-    "price": {
-      "currency": "USD",
-      "amount": 29.99
-    },
-    "publishedStatus": "UNPUBLISHED",
-    "unpublishedReasons": {
-      "reason": [
-        "This item is unpublished because the End Date has passed. Update the item's 'Site End Date' field to a future date to publish the item. Learn more about ||item reactivation@@@https://marketplacelearn.walmart.com/guides/Catalog%20management/Item%20management/Reactivate-an-item-in-seller-center?locale=en-US||"
-      ]
-    },
-    "lifecycleStatus": "ARCHIVED",
-    "isDuplicate": false
+    }
   },
   {
     "mart": "WALMART_US",
@@ -390,18 +389,18 @@
   },
   {
     "mart": "WALMART_US",
-    "sku": "05203069087363",
+    "sku": "RZ-PEC9-O9MV",
     "condition": "New",
-    "availability": "Out_of_stock",
-    "wpid": "5X9E6XYBMO69",
-    "upc": "5203069087363",
-    "gtin": "05203069087363",
-    "productName": "Korres Black Pine 3D Sculpting Firming & Lifting Neck & Decollete Gel 2.03 fl oz",
-    "shelf": "[\"Home Page\",\"Beauty\",\"Here for Every Beauty\",\"Hair Care & Hair Tools\",\"Styling Products\"]",
-    "productType": "Hair Styling Gels",
+    "availability": "In_stock",
+    "wpid": "7D898EVG1PS6",
+    "upc": "818929025352",
+    "gtin": "00818929025352",
+    "productName": "Red V Collagen Hydrating Cream",
+    "shelf": "[\"Home Page\",\"Health and Medicine\",\"Sports Medicine & Injury Recovery Solution\",\"Optimize Performance\",\"Look Good, Feel Good\",\"Prep Your Skin for the Gym\"]",
+    "productType": "Facial Moisturizers",
     "price": {
       "currency": "USD",
-      "amount": 22.0
+      "amount": 28.0
     },
     "publishedStatus": "SYSTEM_PROBLEM",
     "unpublishedReasons": {
@@ -414,18 +413,67 @@
   },
   {
     "mart": "WALMART_US",
-    "sku": "AL-2X6U-SROK",
+    "sku": "costco3pc20",
     "condition": "New",
     "availability": "Out_of_stock",
-    "wpid": "63VE3QPI4813",
-    "upc": "812673015027",
-    "gtin": "00812673015027",
-    "productName": "Hydrangea Printed Standard Birdhouse",
-    "shelf": "[\"Home Page\",\"Patio & Garden\",\"Patio & Outdoor Decor\",\"Bird Houses\",\"Shop All Bird Houses\"]",
-    "productType": "Bird Houses",
+    "wpid": "3CNS61LMTJ7B",
+    "upc": "686457206372",
+    "gtin": "00686457206372",
+    "productName": "SOME BY MI Aha.Bha.Pha 30Days Miracle Serum 50ml (1.7oz)",
+    "shelf": "[\"Home Page\",\"Beauty\",\"Skincare\",\"Facial Serums and Treatments\",\"Facial Treatments\"]",
+    "productType": "Face Serums",
     "price": {
       "currency": "USD",
-      "amount": 34.95
+      "amount": 15.99
+    },
+    "publishedStatus": "SYSTEM_PROBLEM",
+    "unpublishedReasons": {
+      "reason": [
+        "This item was unpublished as it was listed in a cosmetics category, which is restricted to certain sellers. You can request approval to sell through Walmart's Marketplace ||enhanced vetting program@@@https://seller.Walmart.com/home?supporthub=contact-support&openForm=TDRfX0wzX1NlbGxlciBFbGlnaWJpbGl0eSBmb3IgUmVzdH||. If you believe this was done in error, submit an appeal in the Seller Center Unpublished Items page.",
+        "This item is prohibited due to a Walmart policy, in which Walmart has partnered with select brands. For more details, create a case for Partner Support and include the code BIZ. "
+      ]
+    },
+    "lifecycleStatus": "RETIRED",
+    "isDuplicate": false
+  },
+  {
+    "mart": "WALMART_US",
+    "sku": "98",
+    "condition": "New",
+    "availability": "In_stock",
+    "wpid": "4M2MXEL4VDLS",
+    "upc": "767442920678",
+    "gtin": "00767442920678",
+    "productName": "Pantene Pro V Nutrient Blends Unbreakable Lengths Conditioner, Rice Water, 8 Oz, 3 Pack",
+    "shelf": "[\"Home Page\",\"Beauty\",\"Hair Care\",\"Conditioner\",\"All Conditioner\"]",
+    "productType": "Conditioners",
+    "price": {
+      "currency": "USD",
+      "amount": 14.99
+    },
+    "publishedStatus": "SYSTEM_PROBLEM",
+    "unpublishedReasons": {
+      "reason": [
+        "This item was unpublished as it was listed in a cosmetics category, which is restricted to certain sellers. You can request approval to sell through Walmart's Marketplace ||enhanced vetting program@@@https://seller.Walmart.com/home?supporthub=contact-support&openForm=TDRfX0wzX1NlbGxlciBFbGlnaWJpbGl0eSBmb3IgUmVzdH||. If you believe this was done in error, submit an appeal in the Seller Center Unpublished Items page."
+      ]
+    },
+    "lifecycleStatus": "RETIRED",
+    "isDuplicate": false
+  },
+  {
+    "mart": "WALMART_US",
+    "sku": "marsh160",
+    "condition": "New",
+    "availability": "Out_of_stock",
+    "wpid": "1M89KAJ8WN72",
+    "upc": "787790809128",
+    "gtin": "00787790809128",
+    "productName": "Ultra Smooth IPL Device",
+    "shelf": "[\"Home Page\",\"Personal Care\",\"Shaving\",\"Hair Removal\",\"All Body Hair Removal\"]",
+    "productType": "Hair Removal Devices",
+    "price": {
+      "currency": "USD",
+      "amount": 599.0
     },
     "publishedStatus": "UNPUBLISHED",
     "unpublishedReasons": {
@@ -462,66 +510,43 @@
   },
   {
     "mart": "WALMART_US",
-    "sku": "marsh160",
-    "condition": "New",
-    "availability": "Out_of_stock",
-    "wpid": "1M89KAJ8WN72",
-    "upc": "787790809128",
-    "gtin": "00787790809128",
-    "productName": "Ultra Smooth IPL Device",
-    "shelf": "[\"Home Page\",\"Personal Care\",\"Shaving\",\"Hair Removal\",\"All Body Hair Removal\"]",
-    "productType": "Hair Removal Devices",
-    "price": {
-      "currency": "USD",
-      "amount": 599.0
-    },
-    "publishedStatus": "UNPUBLISHED",
-    "unpublishedReasons": {
-      "reason": [
-        "This item is unpublished because the End Date has passed. Update the item's 'Site End Date' field to a future date to publish the item. Learn more about ||item reactivation@@@https://marketplacelearn.walmart.com/guides/Catalog%20management/Item%20management/Reactivate-an-item-in-seller-center?locale=en-US||"
-      ]
-    },
-    "lifecycleStatus": "ARCHIVED",
-    "isDuplicate": false
-  },
-  {
-    "mart": "WALMART_US",
-    "sku": "795902365318",
-    "condition": "New",
-    "availability": "Out_of_stock",
-    "wpid": "4EK3EY5KIPWM",
-    "upc": "795902365318",
-    "gtin": "00795902365318",
-    "productName": "SPIDERMAN 2013 Hallmark Christmas Ornament",
-    "shelf": "[\"UNNAV\"]",
-    "productType": "Ornaments",
-    "price": {
-      "currency": "USD",
-      "amount": 27.89
-    },
-    "publishedStatus": "UNPUBLISHED",
-    "unpublishedReasons": {
-      "reason": [
-        "This item is unpublished because the End Date has passed. Update the item's 'Site End Date' field to a future date to publish the item. Learn more about ||item reactivation@@@https://marketplacelearn.walmart.com/guides/Catalog%20management/Item%20management/Reactivate-an-item-in-seller-center?locale=en-US||"
-      ]
-    },
-    "lifecycleStatus": "ARCHIVED",
-    "isDuplicate": false
-  },
-  {
-    "mart": "WALMART_US",
-    "sku": "036179000626",
+    "sku": "5402393883362",
     "condition": "New",
     "availability": "In_stock",
-    "wpid": "0YW9NSXYONJG",
-    "upc": "036179000626",
-    "gtin": "00036179000626",
-    "productName": "mini whitening system",
-    "shelf": "[\"Home Page\",\"Premium Beauty\",\"Premium Beauty Tech & Skin Devices\",\"Premium Oral Care\"]",
-    "productType": "Teeth Whitening",
+    "wpid": "70N6ET6TPVOM",
+    "upc": "5402393883362",
+    "gtin": "05402393883362",
+    "productName": "Jaysuing Wrinkle Reducing Facial Strips, 2 Count",
+    "shelf": "[\"Home Page\",\"Beauty\",\"Skincare\",\"Facial Serums and Treatments\",\"Facial Treatments\"]",
+    "productType": "Facial Treatments",
     "price": {
       "currency": "USD",
-      "amount": 13.99
+      "amount": 9.4
+    },
+    "publishedStatus": "SYSTEM_PROBLEM",
+    "unpublishedReasons": {
+      "reason": [
+        "This item was unpublished as it was listed in a cosmetics category, which is restricted to certain sellers. You can request approval to sell through Walmart's Marketplace ||enhanced vetting program@@@https://seller.Walmart.com/home?supporthub=contact-support&openForm=TDRfX0wzX1NlbGxlciBFbGlnaWJpbGl0eSBmb3IgUmVzdH||. If you believe this was done in error, submit an appeal in the Seller Center Unpublished Items page.",
+        "Walmart's policy restricts certain brands that can be listed by approved sellers only. Items of this type or brand offered by others will remain unpublished . If you believe this was done in error, submit an appeal in the Seller Center Unpublished Items page."
+      ]
+    },
+    "lifecycleStatus": "RETIRED",
+    "isDuplicate": false
+  },
+  {
+    "mart": "WALMART_US",
+    "sku": "9418002085580",
+    "condition": "New",
+    "availability": "In_stock",
+    "wpid": "1VCK6X9NHI7V",
+    "upc": "9418002085580",
+    "gtin": "09418002085580",
+    "productName": "Lanoline New Zealand Age Defying Eye Cream with Collagen and Vitamin C",
+    "shelf": "[\"Home Page\",\"Beauty\",\"Skincare\",\"Eye Creams\",\"Eye Serums\"]",
+    "productType": "Eye Creams & Serums",
+    "price": {
+      "currency": "USD",
+      "amount": 18.99
     },
     "publishedStatus": "SYSTEM_PROBLEM",
     "unpublishedReasons": {
@@ -551,30 +576,6 @@
     "unpublishedReasons": {
       "reason": [
         "This item is unpublished because the End Date has passed. Update the item's 'Site End Date' field to a future date to publish the item. Learn more about ||item reactivation@@@https://marketplacelearn.walmart.com/guides/Catalog%20management/Item%20management/Reactivate-an-item-in-seller-center?locale=en-US||"
-      ]
-    },
-    "lifecycleStatus": "ARCHIVED",
-    "isDuplicate": false
-  },
-  {
-    "mart": "WALMART_US",
-    "sku": "814627025380",
-    "condition": "New",
-    "availability": "In_stock",
-    "wpid": "3SGGOILG2606",
-    "upc": "814627025380",
-    "gtin": "00814627025380",
-    "productName": "Formula Ten O Six Seriously Shine Free 2.54 fl oz.",
-    "shelf": "[\"Home Page\",\"Health and Medicine\",\"Sports Medicine & Injury Recovery Solution\",\"Optimize Performance\",\"Look Good, Feel Good\",\"Prep Your Skin for the Gym\"]",
-    "productType": "Facial Moisturizers",
-    "price": {
-      "currency": "USD",
-      "amount": 12.99
-    },
-    "publishedStatus": "SYSTEM_PROBLEM",
-    "unpublishedReasons": {
-      "reason": [
-        "This item was unpublished as it was listed in a cosmetics category, which is restricted to certain sellers. You can request approval to sell through Walmart's Marketplace ||enhanced vetting program@@@https://seller.Walmart.com/home?supporthub=contact-support&openForm=TDRfX0wzX1NlbGxlciBFbGlnaWJpbGl0eSBmb3IgUmVzdH||. If you believe this was done in error, submit an appeal in the Seller Center Unpublished Items page."
       ]
     },
     "lifecycleStatus": "ARCHIVED",
@@ -644,23 +645,23 @@
   },
   {
     "mart": "WALMART_US",
-    "sku": "8809639172469",
+    "sku": "083059012071",
     "condition": "New",
     "availability": "In_stock",
-    "wpid": "6BZVYSD7TTL2",
-    "upc": "8809639172469",
-    "gtin": "08809639172469",
-    "productName": "FARMSTAY BLACK SNAIL & PEPTIDE9 PERFECT EMULSION 120ml",
-    "shelf": "[\"Home Page\",\"Beauty\",\"Skincare\",\"Skin Care Concern\",\"Skin Care Products for Dry Skin\"]",
-    "productType": "Facial Moisturizers",
+    "wpid": "3FXD8V3Y322F",
+    "upc": "083059012071",
+    "gtin": "00083059012071",
+    "productName": "Aware Breast Self Exam, FDA Cleared, Reusable Pad, Medical Aid",
+    "shelf": "[\"UNNAV\"]",
+    "productType": "Other First Aid Supplies",
     "price": {
       "currency": "USD",
-      "amount": 18.2
+      "amount": 11.59
     },
-    "publishedStatus": "SYSTEM_PROBLEM",
+    "publishedStatus": "UNPUBLISHED",
     "unpublishedReasons": {
       "reason": [
-        "This item was unpublished as it was listed in a cosmetics category, which is restricted to certain sellers. You can request approval to sell through Walmart's Marketplace ||enhanced vetting program@@@https://seller.Walmart.com/home?supporthub=contact-support&openForm=TDRfX0wzX1NlbGxlciBFbGlnaWJpbGl0eSBmb3IgUmVzdH||. If you believe this was done in error, submit an appeal in the Seller Center Unpublished Items page."
+        "This item is unpublished because the End Date has passed. Update the item's 'Site End Date' field to a future date to publish the item. Learn more about ||item reactivation@@@https://marketplacelearn.walmart.com/guides/Catalog%20management/Item%20management/Reactivate-an-item-in-seller-center?locale=en-US||"
       ]
     },
     "lifecycleStatus": "RETIRED",
@@ -668,48 +669,48 @@
   },
   {
     "mart": "WALMART_US",
-    "sku": "5402393883362",
+    "sku": "795902365318",
     "condition": "New",
-    "availability": "In_stock",
-    "wpid": "70N6ET6TPVOM",
-    "upc": "5402393883362",
-    "gtin": "05402393883362",
-    "productName": "Jaysuing Wrinkle Reducing Facial Strips, 2 Count",
-    "shelf": "[\"Home Page\",\"Beauty\",\"Skincare\",\"Facial Serums and Treatments\",\"Facial Treatments\"]",
-    "productType": "Facial Treatments",
+    "availability": "Out_of_stock",
+    "wpid": "4EK3EY5KIPWM",
+    "upc": "795902365318",
+    "gtin": "00795902365318",
+    "productName": "SPIDERMAN 2013 Hallmark Christmas Ornament",
+    "shelf": "[\"UNNAV\"]",
+    "productType": "Ornaments",
     "price": {
       "currency": "USD",
-      "amount": 9.4
+      "amount": 27.89
+    },
+    "publishedStatus": "UNPUBLISHED",
+    "unpublishedReasons": {
+      "reason": [
+        "This item is unpublished because the End Date has passed. Update the item's 'Site End Date' field to a future date to publish the item. Learn more about ||item reactivation@@@https://marketplacelearn.walmart.com/guides/Catalog%20management/Item%20management/Reactivate-an-item-in-seller-center?locale=en-US||"
+      ]
+    },
+    "lifecycleStatus": "ARCHIVED",
+    "isDuplicate": false
+  },
+  {
+    "mart": "WALMART_US",
+    "sku": "48",
+    "condition": "New",
+    "availability": "In_stock",
+    "wpid": "5GMAC7YB994N",
+    "upc": "840103213200",
+    "gtin": "00840103213200",
+    "productName": "ROC Multi Correxion Lifting Cream + Firming THPE 2.6 Ounce (Pack of 2)",
+    "shelf": "[\"Home Page\",\"Beauty\",\"Skincare\",\"Skin Care Concern\",\"Skin Care Products for Dry Skin\"]",
+    "productType": "Facial Moisturizers",
+    "price": {
+      "currency": "USD",
+      "amount": 31.99
     },
     "publishedStatus": "SYSTEM_PROBLEM",
     "unpublishedReasons": {
       "reason": [
         "This item was unpublished as it was listed in a cosmetics category, which is restricted to certain sellers. You can request approval to sell through Walmart's Marketplace ||enhanced vetting program@@@https://seller.Walmart.com/home?supporthub=contact-support&openForm=TDRfX0wzX1NlbGxlciBFbGlnaWJpbGl0eSBmb3IgUmVzdH||. If you believe this was done in error, submit an appeal in the Seller Center Unpublished Items page.",
-        "Walmart's policy restricts certain brands that can be listed by approved sellers only. Items of this type or brand offered by others will remain unpublished . If you believe this was done in error, submit an appeal in the Seller Center Unpublished Items page."
-      ]
-    },
-    "lifecycleStatus": "RETIRED",
-    "isDuplicate": false
-  },
-  {
-    "mart": "WALMART_US",
-    "sku": "9418002085580",
-    "condition": "New",
-    "availability": "In_stock",
-    "wpid": "1VCK6X9NHI7V",
-    "upc": "9418002085580",
-    "gtin": "09418002085580",
-    "productName": "Lanoline New Zealand Age Defying Eye Cream with Collagen and Vitamin C",
-    "shelf": "[\"Home Page\",\"Beauty\",\"Skincare\",\"Eye Creams\",\"Eye Serums\"]",
-    "productType": "Eye Creams & Serums",
-    "price": {
-      "currency": "USD",
-      "amount": 18.99
-    },
-    "publishedStatus": "SYSTEM_PROBLEM",
-    "unpublishedReasons": {
-      "reason": [
-        "This item was unpublished as it was listed in a cosmetics category, which is restricted to certain sellers. You can request approval to sell through Walmart's Marketplace ||enhanced vetting program@@@https://seller.Walmart.com/home?supporthub=contact-support&openForm=TDRfX0wzX1NlbGxlciBFbGlnaWJpbGl0eSBmb3IgUmVzdH||. If you believe this was done in error, submit an appeal in the Seller Center Unpublished Items page."
+        "This item is unpublished for violating Walmart's Marketplace prohibited products policy: intellectual property. If you believe this was done in error, submit an appeal in the Seller Center Unpublished Items page."
       ]
     },
     "lifecycleStatus": "ARCHIVED",
@@ -717,61 +718,18 @@
   },
   {
     "mart": "WALMART_US",
-    "sku": "tera-obelisk",
+    "sku": "OS-ZGZT-I7OT",
     "condition": "New",
     "availability": "Out_of_stock",
-    "wpid": "3E8E7GH8NOXW",
-    "upc": "450468322877",
-    "gtin": "00450468322877",
-    "productName": "Terahertz Obelisk Tower \u2013 Sleek Metallic Tech Crystal",
-    "shelf": "[\"UNNAV\"]",
-    "productType": "Decoration",
+    "wpid": "3IL5G3EVIVDE",
+    "upc": "450486373776",
+    "gtin": "00450486373776",
+    "productName": "Crystal Suncatcher \u2013 Rose Quartz, Amethyst & Quartz Gemstone Decor",
+    "shelf": "[\"Home Page\",\"Home\",\"Decor\",\"Decorative Accents\",\"Suncatchers\"]",
+    "productType": "Sun Catchers",
     "price": {
       "currency": "USD",
-      "amount": 37.0
-    },
-    "publishedStatus": "PUBLISHED",
-    "lifecycleStatus": "ACTIVE",
-    "isDuplicate": false
-  },
-  {
-    "mart": "WALMART_US",
-    "sku": "98",
-    "condition": "New",
-    "availability": "In_stock",
-    "wpid": "4M2MXEL4VDLS",
-    "upc": "767442920678",
-    "gtin": "00767442920678",
-    "productName": "Pantene Pro V Nutrient Blends Unbreakable Lengths Conditioner, Rice Water, 8 Oz, 3 Pack",
-    "shelf": "[\"Home Page\",\"Beauty\",\"Hair Care\",\"Conditioner\",\"All Conditioner\"]",
-    "productType": "Conditioners",
-    "price": {
-      "currency": "USD",
-      "amount": 14.99
-    },
-    "publishedStatus": "SYSTEM_PROBLEM",
-    "unpublishedReasons": {
-      "reason": [
-        "This item was unpublished as it was listed in a cosmetics category, which is restricted to certain sellers. You can request approval to sell through Walmart's Marketplace ||enhanced vetting program@@@https://seller.Walmart.com/home?supporthub=contact-support&openForm=TDRfX0wzX1NlbGxlciBFbGlnaWJpbGl0eSBmb3IgUmVzdH||. If you believe this was done in error, submit an appeal in the Seller Center Unpublished Items page."
-      ]
-    },
-    "lifecycleStatus": "RETIRED",
-    "isDuplicate": false
-  },
-  {
-    "mart": "WALMART_US",
-    "sku": "2",
-    "condition": "New",
-    "availability": "Out_of_stock",
-    "wpid": "34MA4UZC8HHS",
-    "upc": "811573030413",
-    "gtin": "00811573030413",
-    "productName": "Soniclear Petite Antimicrobial Sonic Skin Cleansing Brush",
-    "shelf": "[\"Home Page\",\"Beauty\",\"Skincare\",\"Face Cleansers\",\"Facial Cleansing Brushes\"]",
-    "productType": "Facial Cleansing Brushes",
-    "price": {
-      "currency": "USD",
-      "amount": 39.99
+      "amount": 15.99
     },
     "publishedStatus": "UNPUBLISHED",
     "unpublishedReasons": {
@@ -779,211 +737,18 @@
         "This item is unpublished because the End Date has passed. Update the item's 'Site End Date' field to a future date to publish the item. Learn more about ||item reactivation@@@https://marketplacelearn.walmart.com/guides/Catalog%20management/Item%20management/Reactivate-an-item-in-seller-center?locale=en-US||"
       ]
     },
-    "lifecycleStatus": "ARCHIVED",
+    "lifecycleStatus": "RETIRED",
     "isDuplicate": false,
-    "variantGroupId": "B7E10A_22660212_5C9BB2671E1E9004",
+    "variantGroupId": "#codisto-15",
     "variantGroupInfo": {
       "isPrimary": true,
       "groupingAttributes": [
         {
           "name": "actual_color",
-          "value": "English Garden"
+          "value": "Amethyst"
         }
       ]
     }
-  },
-  {
-    "mart": "WALMART_US",
-    "sku": "705320126729",
-    "condition": "New",
-    "availability": "In_stock",
-    "wpid": "7GFUYRUODFUP",
-    "upc": "705320126729",
-    "gtin": "00705320126729",
-    "productName": "X5 SUPERLITE LARGE IONIC CERAMIC THERMAL ROUND Hairbrush\u2014 Create soft waves or add volume--Ionic Infused Bristles for Even Heat Distribution\u2014 Adds Shine and Eliminates Frizz",
-    "shelf": "[\"Home Page\",\"Beauty\",\"Hair Care\",\"Hair Styling Tools\",\"Hair Brushes & Combs\",\"Round Brushes\"]",
-    "productType": "Hair Brushes",
-    "price": {
-      "currency": "USD",
-      "amount": 14.5
-    },
-    "publishedStatus": "UNPUBLISHED",
-    "unpublishedReasons": {
-      "reason": [
-        "This item is unpublished because the End Date has passed. Update the item's 'Site End Date' field to a future date to publish the item. Learn more about ||item reactivation@@@https://marketplacelearn.walmart.com/guides/Catalog%20management/Item%20management/Reactivate-an-item-in-seller-center?locale=en-US||"
-      ]
-    },
-    "lifecycleStatus": "ARCHIVED",
-    "isDuplicate": false
-  },
-  {
-    "mart": "WALMART_US",
-    "sku": "044228022222",
-    "condition": "New",
-    "availability": "Out_of_stock",
-    "wpid": "52TCV9YLIFFD",
-    "upc": "044228022222",
-    "gtin": "00044228022222",
-    "productName": "Towle Living Wave Stainless Steel Pie Server",
-    "shelf": "[\"Home Page\",\"Home\",\"Kitchen & Dining\",\"Dining & Entertaining\",\"Flatware\",\"Flatware Serving Sets\"]",
-    "productType": "Serving Utensils & Sets",
-    "price": {
-      "currency": "USD",
-      "amount": 24.0
-    },
-    "publishedStatus": "UNPUBLISHED",
-    "unpublishedReasons": {
-      "reason": [
-        "This item is unpublished because the End Date has passed. Update the item's 'Site End Date' field to a future date to publish the item. Learn more about ||item reactivation@@@https://marketplacelearn.walmart.com/guides/Catalog%20management/Item%20management/Reactivate-an-item-in-seller-center?locale=en-US||"
-      ]
-    },
-    "lifecycleStatus": "ARCHIVED",
-    "isDuplicate": false
-  },
-  {
-    "mart": "WALMART_US",
-    "sku": "97",
-    "condition": "New",
-    "availability": "Out_of_stock",
-    "wpid": "0YWBASAV48DX",
-    "upc": "620345033381",
-    "gtin": "00620345033381",
-    "productName": "Pantene Pro V Nutrient Blends Unbreakable Lengths Conditioner, Rice Water, 8 Oz..",
-    "shelf": "[\"Home Page\",\"Beauty\",\"Hair Care\",\"Conditioner\",\"All Conditioner\"]",
-    "productType": "Conditioners",
-    "price": {
-      "currency": "USD",
-      "amount": 11.95
-    },
-    "publishedStatus": "SYSTEM_PROBLEM",
-    "unpublishedReasons": {
-      "reason": [
-        "This item was unpublished as it was listed in a cosmetics category, which is restricted to certain sellers. You can request approval to sell through Walmart's Marketplace ||enhanced vetting program@@@https://seller.Walmart.com/home?supporthub=contact-support&openForm=TDRfX0wzX1NlbGxlciBFbGlnaWJpbGl0eSBmb3IgUmVzdH||. If you believe this was done in error, submit an appeal in the Seller Center Unpublished Items page."
-      ]
-    },
-    "lifecycleStatus": "RETIRED",
-    "isDuplicate": false
-  },
-  {
-    "mart": "WALMART_US",
-    "sku": "800897197230",
-    "condition": "New",
-    "availability": "In_stock",
-    "wpid": "7ERQ1D3XOV4X",
-    "upc": "800897197230",
-    "gtin": "00800897197230",
-    "productName": "NYX Professional Makeup Dip Shape Go Longwear Brow, Blonde",
-    "shelf": "[\"Home Page\",\"Beauty\",\"Beauty by Top Brands\",\"NYX Professional Makeup\",\"NYX Professional Eye Makeup\"]",
-    "productType": "Eyebrow Color",
-    "price": {
-      "currency": "USD",
-      "amount": 14.99
-    },
-    "publishedStatus": "SYSTEM_PROBLEM",
-    "unpublishedReasons": {
-      "reason": [
-        "This item was unpublished as it was listed in a cosmetics category, which is restricted to certain sellers. You can request approval to sell through Walmart's Marketplace ||enhanced vetting program@@@https://seller.Walmart.com/home?supporthub=contact-support&openForm=TDRfX0wzX1NlbGxlciBFbGlnaWJpbGl0eSBmb3IgUmVzdH||. If you believe this was done in error, submit an appeal in the Seller Center Unpublished Items page."
-      ]
-    },
-    "lifecycleStatus": "ARCHIVED",
-    "isDuplicate": false,
-    "variantGroupId": "00800897197230",
-    "variantGroupInfo": {
-      "isPrimary": true,
-      "groupingAttributes": [
-        {
-          "name": "actual_color",
-          "value": "01 - Blonde"
-        }
-      ]
-    }
-  },
-  {
-    "mart": "WALMART_US",
-    "sku": "ced_48648260845852",
-    "condition": "New",
-    "availability": "In_stock",
-    "wpid": "7IN3EFIS1YJN",
-    "upc": "630870158398",
-    "gtin": "00630870158398",
-    "productName": "Le Creuset Toughened Non-Stick Bakeware Insulated Cookie Tray - 38 cm",
-    "shelf": "[\"Home Page\",\"Home\",\"Kitchen & Dining\",\"Bakeware\",\"Shop Bakeware\"]",
-    "productType": "Baking & Cookie Sheets",
-    "price": {
-      "currency": "USD",
-      "amount": 54.99
-    },
-    "publishedStatus": "UNPUBLISHED",
-    "unpublishedReasons": {
-      "reason": [
-        "This item is unpublished because the End Date has passed. Update the item's 'Site End Date' field to a future date to publish the item. Learn more about ||item reactivation@@@https://marketplacelearn.walmart.com/guides/Catalog%20management/Item%20management/Reactivate-an-item-in-seller-center?locale=en-US||"
-      ]
-    },
-    "lifecycleStatus": "ARCHIVED",
-    "isDuplicate": false
-  },
-  {
-    "mart": "WALMART_US",
-    "sku": "1B-I8W5-NYQB",
-    "condition": "New",
-    "availability": "In_stock",
-    "wpid": "6BPOKRMUJ7QF",
-    "upc": "052427602701",
-    "gtin": "00052427602701",
-    "productName": "Gorilla Crystal Clear Tape, 1.88 inch x 27 ft Roll",
-    "shelf": "[\"Home Page\",\"Home Improvement\",\"Building Materials\",\"Sealants, Fillers and Adhesives\",\"All Sealants, Fillers & Adhesives\"]",
-    "productType": "Transparent Tapes",
-    "price": {
-      "currency": "USD",
-      "amount": 20.0
-    },
-    "publishedStatus": "UNPUBLISHED",
-    "unpublishedReasons": {
-      "reason": [
-        "This item is unpublished because the End Date has passed. Update the item's 'Site End Date' field to a future date to publish the item. Learn more about ||item reactivation@@@https://marketplacelearn.walmart.com/guides/Catalog%20management/Item%20management/Reactivate-an-item-in-seller-center?locale=en-US||",
-        "This item is unpublished because it violates ||Walmart Marketplace's Pricing Rule@@@https://marketplacelearn.walmart.com/guides/Catalog%20management/Price%20management/Pricing-rules||, which prevents price gouging, or other unfair or abusive pricing practices. Review and update the price to republish the item."
-      ]
-    },
-    "lifecycleStatus": "ARCHIVED",
-    "isDuplicate": false,
-    "variantGroupId": "00052427606006",
-    "variantGroupInfo": {
-      "isPrimary": true,
-      "groupingAttributes": [
-        {
-          "name": "multipack_quantity",
-          "value": "1"
-        },
-        {
-          "name": "size",
-          "value": "9yd"
-        }
-      ]
-    }
-  },
-  {
-    "mart": "WALMART_US",
-    "sku": "5011386082431",
-    "condition": "New",
-    "availability": "In_stock",
-    "wpid": "1WBOYIWYCOKC",
-    "upc": "5011386082431",
-    "gtin": "05011386082431",
-    "productName": "Daler-Rowney Simply Paint Thinner, Low Odor, Clear, Oil Paint, 75 ml, 1 Each - Students, Teens, Artists",
-    "shelf": "[\"Home Page\",\"Arts Crafts & Sewing\",\"Art Supplies\",\"Art Painting Supplies\",\"Art Paint Thinners\"]",
-    "productType": "Art Paint Thinners",
-    "price": {
-      "currency": "USD",
-      "amount": 11.99
-    },
-    "publishedStatus": "UNPUBLISHED",
-    "unpublishedReasons": {
-      "reason": [
-        "This item is unpublished because the End Date has passed. Update the item's 'Site End Date' field to a future date to publish the item. Learn more about ||item reactivation@@@https://marketplacelearn.walmart.com/guides/Catalog%20management/Item%20management/Reactivate-an-item-in-seller-center?locale=en-US||"
-      ]
-    },
-    "lifecycleStatus": "RETIRED",
-    "isDuplicate": false
   },
   {
     "mart": "WALMART_US",
@@ -1045,18 +810,177 @@
   },
   {
     "mart": "WALMART_US",
-    "sku": "OS-ZGZT-I7OT",
+    "sku": "8809656866655",
     "condition": "New",
     "availability": "Out_of_stock",
-    "wpid": "3IL5G3EVIVDE",
-    "upc": "450486373776",
-    "gtin": "00450486373776",
-    "productName": "Crystal Suncatcher \u2013 Rose Quartz, Amethyst & Quartz Gemstone Decor",
-    "shelf": "[\"Home Page\",\"Home\",\"Decor\",\"Decorative Accents\",\"Suncatchers\"]",
-    "productType": "Sun Catchers",
+    "wpid": "67WRHCW6E4GW",
+    "upc": "8809663575298",
+    "gtin": "08809663575298",
+    "productName": "It'S SKIN LI Soothing Cream with Licorice Extract & Guaiazulene - Smooth Finishing Redness Relief Face Shield- Skin Barrier Strengthening Moisturizer with Panthenol, 1.85 oz.",
+    "shelf": "[\"Home Page\",\"Beauty\",\"Skincare\",\"Skin Care Concern\",\"Skin Care Products for Dry Skin\"]",
+    "productType": "Facial Moisturizers",
     "price": {
       "currency": "USD",
-      "amount": 15.99
+      "amount": 28.0
+    },
+    "publishedStatus": "SYSTEM_PROBLEM",
+    "unpublishedReasons": {
+      "reason": [
+        "This item was unpublished as it was listed in a cosmetics category, which is restricted to certain sellers. You can request approval to sell through Walmart's Marketplace ||enhanced vetting program@@@https://seller.Walmart.com/home?supporthub=contact-support&openForm=TDRfX0wzX1NlbGxlciBFbGlnaWJpbGl0eSBmb3IgUmVzdH||. If you believe this was done in error, submit an appeal in the Seller Center Unpublished Items page."
+      ]
+    },
+    "lifecycleStatus": "ARCHIVED",
+    "isDuplicate": false
+  },
+  {
+    "mart": "WALMART_US",
+    "sku": "05203069087363",
+    "condition": "New",
+    "availability": "Out_of_stock",
+    "wpid": "5X9E6XYBMO69",
+    "upc": "5203069087363",
+    "gtin": "05203069087363",
+    "productName": "Korres Black Pine 3D Sculpting Firming & Lifting Neck & Decollete Gel 2.03 fl oz",
+    "shelf": "[\"Home Page\",\"Beauty\",\"Here for Every Beauty\",\"Hair Care & Hair Tools\",\"Styling Products\"]",
+    "productType": "Hair Styling Gels",
+    "price": {
+      "currency": "USD",
+      "amount": 22.0
+    },
+    "publishedStatus": "SYSTEM_PROBLEM",
+    "unpublishedReasons": {
+      "reason": [
+        "This item was unpublished as it was listed in a cosmetics category, which is restricted to certain sellers. You can request approval to sell through Walmart's Marketplace ||enhanced vetting program@@@https://seller.Walmart.com/home?supporthub=contact-support&openForm=TDRfX0wzX1NlbGxlciBFbGlnaWJpbGl0eSBmb3IgUmVzdH||. If you believe this was done in error, submit an appeal in the Seller Center Unpublished Items page."
+      ]
+    },
+    "lifecycleStatus": "ARCHIVED",
+    "isDuplicate": false
+  },
+  {
+    "mart": "WALMART_US",
+    "sku": "CANNER410",
+    "condition": "New",
+    "availability": "In_stock",
+    "wpid": "48SDH13T9Q9Z",
+    "upc": "450471369722",
+    "gtin": "00450471369722",
+    "productName": "Celestial Sterling Silver Earrings \u2013 4 Piece Set with Gold Plating",
+    "shelf": "[\"Home Page\",\"Jewelry\",\"Jewelry & Watches\"]",
+    "productType": "Earrings",
+    "price": {
+      "currency": "USD",
+      "amount": 30.0
+    },
+    "publishedStatus": "PUBLISHED",
+    "lifecycleStatus": "ACTIVE",
+    "isDuplicate": false
+  },
+  {
+    "mart": "WALMART_US",
+    "sku": "800897197230",
+    "condition": "New",
+    "availability": "In_stock",
+    "wpid": "7ERQ1D3XOV4X",
+    "upc": "800897197230",
+    "gtin": "00800897197230",
+    "productName": "NYX Professional Makeup Dip Shape Go Longwear Brow, Blonde",
+    "shelf": "[\"Home Page\",\"Beauty\",\"Beauty by Top Brands\",\"NYX Professional Makeup\",\"NYX Professional Eye Makeup\"]",
+    "productType": "Eyebrow Color",
+    "price": {
+      "currency": "USD",
+      "amount": 14.99
+    },
+    "publishedStatus": "SYSTEM_PROBLEM",
+    "unpublishedReasons": {
+      "reason": [
+        "This item was unpublished as it was listed in a cosmetics category, which is restricted to certain sellers. You can request approval to sell through Walmart's Marketplace ||enhanced vetting program@@@https://seller.Walmart.com/home?supporthub=contact-support&openForm=TDRfX0wzX1NlbGxlciBFbGlnaWJpbGl0eSBmb3IgUmVzdH||. If you believe this was done in error, submit an appeal in the Seller Center Unpublished Items page."
+      ]
+    },
+    "lifecycleStatus": "ARCHIVED",
+    "isDuplicate": false,
+    "variantGroupId": "00800897197230",
+    "variantGroupInfo": {
+      "isPrimary": true,
+      "groupingAttributes": [
+        {
+          "name": "actual_color",
+          "value": "01 - Blonde"
+        }
+      ]
+    }
+  },
+  {
+    "mart": "WALMART_US",
+    "sku": "2",
+    "condition": "New",
+    "availability": "Out_of_stock",
+    "wpid": "34MA4UZC8HHS",
+    "upc": "811573030413",
+    "gtin": "00811573030413",
+    "productName": "Soniclear Petite Antimicrobial Sonic Skin Cleansing Brush",
+    "shelf": "[\"Home Page\",\"Beauty\",\"Skincare\",\"Face Cleansers\",\"Facial Cleansing Brushes\"]",
+    "productType": "Facial Cleansing Brushes",
+    "price": {
+      "currency": "USD",
+      "amount": 39.99
+    },
+    "publishedStatus": "UNPUBLISHED",
+    "unpublishedReasons": {
+      "reason": [
+        "This item is unpublished because the End Date has passed. Update the item's 'Site End Date' field to a future date to publish the item. Learn more about ||item reactivation@@@https://marketplacelearn.walmart.com/guides/Catalog%20management/Item%20management/Reactivate-an-item-in-seller-center?locale=en-US||"
+      ]
+    },
+    "lifecycleStatus": "ARCHIVED",
+    "isDuplicate": false,
+    "variantGroupId": "B7E10A_22660212_5C9BB2671E1E9004",
+    "variantGroupInfo": {
+      "isPrimary": true,
+      "groupingAttributes": [
+        {
+          "name": "actual_color",
+          "value": "English Garden"
+        }
+      ]
+    }
+  },
+  {
+    "mart": "WALMART_US",
+    "sku": "705320126729",
+    "condition": "New",
+    "availability": "In_stock",
+    "wpid": "7GFUYRUODFUP",
+    "upc": "705320126729",
+    "gtin": "00705320126729",
+    "productName": "X5 SUPERLITE LARGE IONIC CERAMIC THERMAL ROUND Hairbrush\u2014 Create soft waves or add volume--Ionic Infused Bristles for Even Heat Distribution\u2014 Adds Shine and Eliminates Frizz",
+    "shelf": "[\"Home Page\",\"Beauty\",\"Hair Care\",\"Hair Styling Tools\",\"Hair Brushes & Combs\",\"Round Brushes\"]",
+    "productType": "Hair Brushes",
+    "price": {
+      "currency": "USD",
+      "amount": 14.5
+    },
+    "publishedStatus": "UNPUBLISHED",
+    "unpublishedReasons": {
+      "reason": [
+        "This item is unpublished because the End Date has passed. Update the item's 'Site End Date' field to a future date to publish the item. Learn more about ||item reactivation@@@https://marketplacelearn.walmart.com/guides/Catalog%20management/Item%20management/Reactivate-an-item-in-seller-center?locale=en-US||"
+      ]
+    },
+    "lifecycleStatus": "ARCHIVED",
+    "isDuplicate": false
+  },
+  {
+    "mart": "WALMART_US",
+    "sku": "21",
+    "condition": "New",
+    "availability": "Out_of_stock",
+    "wpid": "4QIXP9SV6N36",
+    "upc": "810065982964",
+    "gtin": "00810065982964",
+    "productName": "Smartpoint Handheld Mini Desktop Vacuum with Tube Attachment, Multi-Surface, New",
+    "shelf": "[\"Home Page\",\"Home\",\"Appliances\",\"Vacuums, Steamers & Floor Care\",\"Handheld Vacuums\"]",
+    "productType": "Vacuum Cleaners",
+    "price": {
+      "currency": "USD",
+      "amount": 24.0
     },
     "publishedStatus": "UNPUBLISHED",
     "unpublishedReasons": {
@@ -1065,40 +989,6 @@
       ]
     },
     "lifecycleStatus": "RETIRED",
-    "isDuplicate": false,
-    "variantGroupId": "#codisto-15",
-    "variantGroupInfo": {
-      "isPrimary": true,
-      "groupingAttributes": [
-        {
-          "name": "actual_color",
-          "value": "Amethyst"
-        }
-      ]
-    }
-  },
-  {
-    "mart": "WALMART_US",
-    "sku": "194346057764",
-    "condition": "New",
-    "availability": "Out_of_stock",
-    "wpid": "4ZIEQLCAJ97S",
-    "upc": "194346057764",
-    "gtin": "00194346057764",
-    "productName": "onn Glass Screen Protector with Easy Application Tray for Samsung Galaxy S23+ 5G",
-    "shelf": "[\"Home Page\",\"Cell Phones\",\"Cell Phone Accessories\",\"Samsung Phone Accessories\",\"All Samsung Phone Accessories\"]",
-    "productType": "Electronics Film Protectors",
-    "price": {
-      "currency": "USD",
-      "amount": 17.99
-    },
-    "publishedStatus": "SYSTEM_PROBLEM",
-    "unpublishedReasons": {
-      "reason": [
-        "This item is prohibited due to a Walmart policy, in which Walmart has partnered with select brands. For more details, create a case for Partner Support and include the code BIZ. "
-      ]
-    },
-    "lifecycleStatus": "ARCHIVED",
     "isDuplicate": false
   },
   {
@@ -1185,23 +1075,439 @@
   },
   {
     "mart": "WALMART_US",
-    "sku": "028995051890",
+    "sku": "814627025380",
     "condition": "New",
     "availability": "In_stock",
-    "wpid": "3A0CFUVF7WZR",
-    "upc": "028995051890",
-    "gtin": "00028995051890",
-    "productName": "Plaid Folkart Color Shift Paint 4oz Green Flash",
-    "shelf": "[\"Home Page\",\"Arts Crafts & Sewing\",\"Art Supplies\",\"Art Painting Supplies\",\"Art Paints\",\"Acrylic Paints\"]",
-    "productType": "Art Paints & Pigment Powders",
+    "wpid": "3SGGOILG2606",
+    "upc": "814627025380",
+    "gtin": "00814627025380",
+    "productName": "Formula Ten O Six Seriously Shine Free 2.54 fl oz.",
+    "shelf": "[\"Home Page\",\"Health and Medicine\",\"Sports Medicine & Injury Recovery Solution\",\"Optimize Performance\",\"Look Good, Feel Good\",\"Prep Your Skin for the Gym\"]",
+    "productType": "Facial Moisturizers",
     "price": {
       "currency": "USD",
-      "amount": 28.0
+      "amount": 12.99
+    },
+    "publishedStatus": "SYSTEM_PROBLEM",
+    "unpublishedReasons": {
+      "reason": [
+        "This item was unpublished as it was listed in a cosmetics category, which is restricted to certain sellers. You can request approval to sell through Walmart's Marketplace ||enhanced vetting program@@@https://seller.Walmart.com/home?supporthub=contact-support&openForm=TDRfX0wzX1NlbGxlciBFbGlnaWJpbGl0eSBmb3IgUmVzdH||. If you believe this was done in error, submit an appeal in the Seller Center Unpublished Items page."
+      ]
+    },
+    "lifecycleStatus": "ARCHIVED",
+    "isDuplicate": false
+  },
+  {
+    "mart": "WALMART_US",
+    "sku": "044228022222",
+    "condition": "New",
+    "availability": "Out_of_stock",
+    "wpid": "52TCV9YLIFFD",
+    "upc": "044228022222",
+    "gtin": "00044228022222",
+    "productName": "Towle Living Wave Stainless Steel Pie Server",
+    "shelf": "[\"Home Page\",\"Home\",\"Kitchen & Dining\",\"Dining & Entertaining\",\"Flatware\",\"Flatware Serving Sets\"]",
+    "productType": "Serving Utensils & Sets",
+    "price": {
+      "currency": "USD",
+      "amount": 24.0
     },
     "publishedStatus": "UNPUBLISHED",
     "unpublishedReasons": {
       "reason": [
         "This item is unpublished because the End Date has passed. Update the item's 'Site End Date' field to a future date to publish the item. Learn more about ||item reactivation@@@https://marketplacelearn.walmart.com/guides/Catalog%20management/Item%20management/Reactivate-an-item-in-seller-center?locale=en-US||"
+      ]
+    },
+    "lifecycleStatus": "ARCHIVED",
+    "isDuplicate": false
+  },
+  {
+    "mart": "WALMART_US",
+    "sku": "97",
+    "condition": "New",
+    "availability": "Out_of_stock",
+    "wpid": "0YWBASAV48DX",
+    "upc": "620345033381",
+    "gtin": "00620345033381",
+    "productName": "Pantene Pro V Nutrient Blends Unbreakable Lengths Conditioner, Rice Water, 8 Oz..",
+    "shelf": "[\"Home Page\",\"Beauty\",\"Hair Care\",\"Conditioner\",\"All Conditioner\"]",
+    "productType": "Conditioners",
+    "price": {
+      "currency": "USD",
+      "amount": 11.95
+    },
+    "publishedStatus": "SYSTEM_PROBLEM",
+    "unpublishedReasons": {
+      "reason": [
+        "This item was unpublished as it was listed in a cosmetics category, which is restricted to certain sellers. You can request approval to sell through Walmart's Marketplace ||enhanced vetting program@@@https://seller.Walmart.com/home?supporthub=contact-support&openForm=TDRfX0wzX1NlbGxlciBFbGlnaWJpbGl0eSBmb3IgUmVzdH||. If you believe this was done in error, submit an appeal in the Seller Center Unpublished Items page."
+      ]
+    },
+    "lifecycleStatus": "RETIRED",
+    "isDuplicate": false
+  },
+  {
+    "mart": "WALMART_US",
+    "sku": "656497636378",
+    "condition": "New",
+    "availability": "Out_of_stock",
+    "wpid": "4AEEKKP9WCVD",
+    "upc": "656497636378",
+    "gtin": "00656497636378",
+    "productName": "Profusion Cosmetics Jurassic Park 30 Hydrating Lip Plump - Isla Nublar",
+    "shelf": "[\"Home Page\",\"Beauty\",\"Makeup\",\"Lip Makeup\",\"Lipstick\"]",
+    "productType": "Lipsticks",
+    "price": {
+      "currency": "USD",
+      "amount": 11.99
+    },
+    "publishedStatus": "SYSTEM_PROBLEM",
+    "unpublishedReasons": {
+      "reason": [
+        "This item was unpublished as it was listed in a cosmetics category, which is restricted to certain sellers. You can request approval to sell through Walmart's Marketplace ||enhanced vetting program@@@https://seller.Walmart.com/home?supporthub=contact-support&openForm=TDRfX0wzX1NlbGxlciBFbGlnaWJpbGl0eSBmb3IgUmVzdH||. If you believe this was done in error, submit an appeal in the Seller Center Unpublished Items page."
+      ]
+    },
+    "lifecycleStatus": "ARCHIVED",
+    "isDuplicate": false,
+    "variantGroupId": "00656497636354",
+    "variantGroupInfo": {
+      "isPrimary": false,
+      "groupingAttributes": [
+        {
+          "name": "actual_color",
+          "value": "Isla Nublar"
+        }
+      ]
+    }
+  },
+  {
+    "mart": "WALMART_US",
+    "sku": "850026905199",
+    "condition": "New",
+    "availability": "Out_of_stock",
+    "wpid": "57XET44CFWOI",
+    "upc": "850026905199",
+    "gtin": "00850026905199",
+    "productName": "HERBIVORE Moon Fruit Retinol Alternative Sleep Mask 1.7oz - Imperfect Box",
+    "shelf": "[\"Home Page\",\"Beauty\",\"Skincare\",\"Beauty Face Masks\",\"Wash-off Face Masks\"]",
+    "productType": "Facial Masks",
+    "price": {
+      "currency": "USD",
+      "amount": 54.99
+    },
+    "publishedStatus": "SYSTEM_PROBLEM",
+    "unpublishedReasons": {
+      "reason": [
+        "This item was unpublished as it was listed in a cosmetics category, which is restricted to certain sellers. You can request approval to sell through Walmart's Marketplace ||enhanced vetting program@@@https://seller.Walmart.com/home?supporthub=contact-support&openForm=TDRfX0wzX1NlbGxlciBFbGlnaWJpbGl0eSBmb3IgUmVzdH||. If you believe this was done in error, submit an appeal in the Seller Center Unpublished Items page."
+      ]
+    },
+    "lifecycleStatus": "ARCHIVED",
+    "isDuplicate": false
+  },
+  {
+    "mart": "WALMART_US",
+    "sku": "AF-65IA-5WZT",
+    "condition": "New",
+    "availability": "In_stock",
+    "wpid": "18QNNCUPLX09",
+    "upc": "023055508673",
+    "gtin": "00023055508673",
+    "productName": "Grant Howard 50867 16 oz Sicilian Olives Oil and Vinegar Cruet, Clear",
+    "shelf": "[\"Home Page\",\"Home\",\"Storage & Organization\",\"Shop all Storage & Organization\"]",
+    "productType": "Oil & Vinegar Dispensing Bottles & Cruets",
+    "price": {
+      "currency": "USD",
+      "amount": 19.99
+    },
+    "publishedStatus": "UNPUBLISHED",
+    "unpublishedReasons": {
+      "reason": [
+        "This item is unpublished because the End Date has passed. Update the item's 'Site End Date' field to a future date to publish the item. Learn more about ||item reactivation@@@https://marketplacelearn.walmart.com/guides/Catalog%20management/Item%20management/Reactivate-an-item-in-seller-center?locale=en-US||"
+      ]
+    },
+    "lifecycleStatus": "RETIRED",
+    "isDuplicate": false
+  },
+  {
+    "mart": "WALMART_US",
+    "sku": "5011386082431",
+    "condition": "New",
+    "availability": "In_stock",
+    "wpid": "1WBOYIWYCOKC",
+    "upc": "5011386082431",
+    "gtin": "05011386082431",
+    "productName": "Daler-Rowney Simply Paint Thinner, Low Odor, Clear, Oil Paint, 75 ml, 1 Each - Students, Teens, Artists",
+    "shelf": "[\"Home Page\",\"Arts Crafts & Sewing\",\"Art Supplies\",\"Art Painting Supplies\",\"Art Paint Thinners\"]",
+    "productType": "Art Paint Thinners",
+    "price": {
+      "currency": "USD",
+      "amount": 11.99
+    },
+    "publishedStatus": "UNPUBLISHED",
+    "unpublishedReasons": {
+      "reason": [
+        "This item is unpublished because the End Date has passed. Update the item's 'Site End Date' field to a future date to publish the item. Learn more about ||item reactivation@@@https://marketplacelearn.walmart.com/guides/Catalog%20management/Item%20management/Reactivate-an-item-in-seller-center?locale=en-US||"
+      ]
+    },
+    "lifecycleStatus": "RETIRED",
+    "isDuplicate": false
+  },
+  {
+    "mart": "WALMART_US",
+    "sku": "194346057764",
+    "condition": "New",
+    "availability": "Out_of_stock",
+    "wpid": "4ZIEQLCAJ97S",
+    "upc": "194346057764",
+    "gtin": "00194346057764",
+    "productName": "onn Glass Screen Protector with Easy Application Tray for Samsung Galaxy S23+ 5G",
+    "shelf": "[\"Home Page\",\"Cell Phones\",\"Cell Phone Accessories\",\"Samsung Phone Accessories\",\"All Samsung Phone Accessories\"]",
+    "productType": "Electronics Film Protectors",
+    "price": {
+      "currency": "USD",
+      "amount": 17.99
+    },
+    "publishedStatus": "SYSTEM_PROBLEM",
+    "unpublishedReasons": {
+      "reason": [
+        "This item is prohibited due to a Walmart policy, in which Walmart has partnered with select brands. For more details, create a case for Partner Support and include the code BIZ. "
+      ]
+    },
+    "lifecycleStatus": "ARCHIVED",
+    "isDuplicate": false
+  },
+  {
+    "mart": "WALMART_US",
+    "sku": "090146551641",
+    "condition": "New",
+    "availability": "Out_of_stock",
+    "wpid": "1NRCXHTS62L2",
+    "upc": "090146551641",
+    "gtin": "00090146551641",
+    "productName": "Pen+Gear White & Dark Fabric Transfer Paper, Inkjet Printable, 8.5 x 11, 15 Sheets",
+    "shelf": "[\"Home Page\",\"Office Supplies\",\"Paper\",\"Printer Paper\"]",
+    "productType": "Transfer Paper",
+    "price": {
+      "currency": "USD",
+      "amount": 13.99
+    },
+    "publishedStatus": "SYSTEM_PROBLEM",
+    "unpublishedReasons": {
+      "reason": [
+        "This item is prohibited due to a Walmart policy, in which Walmart has partnered with select brands. For more details, create a case for Partner Support and include the code BIZ. "
+      ]
+    },
+    "lifecycleStatus": "ARCHIVED",
+    "isDuplicate": false,
+    "variantGroupId": "00090146551641",
+    "variantGroupInfo": {
+      "isPrimary": true,
+      "groupingAttributes": [
+        {
+          "name": "number_of_sheets",
+          "value": "15"
+        }
+      ]
+    }
+  },
+  {
+    "mart": "WALMART_US",
+    "sku": "tera-obelisk",
+    "condition": "New",
+    "availability": "Out_of_stock",
+    "wpid": "3E8E7GH8NOXW",
+    "upc": "450468322877",
+    "gtin": "00450468322877",
+    "productName": "Terahertz Obelisk Tower \u2013 Sleek Metallic Tech Crystal",
+    "shelf": "[\"UNNAV\"]",
+    "productType": "Decoration",
+    "price": {
+      "currency": "USD",
+      "amount": 37.0
+    },
+    "publishedStatus": "PUBLISHED",
+    "lifecycleStatus": "ACTIVE",
+    "isDuplicate": false
+  },
+  {
+    "mart": "WALMART_US",
+    "sku": "086800195993",
+    "condition": "New",
+    "availability": "In_stock",
+    "wpid": "7D6J08X426W7",
+    "upc": "086800195993",
+    "gtin": "00086800195993",
+    "productName": "Neutrogena Shine Control Mattifying Primer, Rice Protein, 1 fl. oz",
+    "shelf": "[\"Home Page\",\"Beauty\",\"Beauty by Top Brands\",\"Neutrogena\",\"Neutrogena Makeup\"]",
+    "productType": "Foundation Primers",
+    "price": {
+      "currency": "USD",
+      "amount": 13.99
+    },
+    "publishedStatus": "SYSTEM_PROBLEM",
+    "unpublishedReasons": {
+      "reason": [
+        "This item was unpublished as it was listed in a cosmetics category, which is restricted to certain sellers. You can request approval to sell through Walmart's Marketplace ||enhanced vetting program@@@https://seller.Walmart.com/home?supporthub=contact-support&openForm=TDRfX0wzX1NlbGxlciBFbGlnaWJpbGl0eSBmb3IgUmVzdH||. If you believe this was done in error, submit an appeal in the Seller Center Unpublished Items page.",
+        "This item is unpublished for violating Walmart's Marketplace ||Prohibited Product Policy: Intellectual Property@@@https://marketplacelearn.walmart.com/guides/Prohibited-products-policy:-intellectual-property-(IP)||. If you believe this was done in error, submit an appeal in the Seller Center Unpublished Items page."
+      ]
+    },
+    "lifecycleStatus": "ARCHIVED",
+    "isDuplicate": false
+  },
+  {
+    "mart": "WALMART_US",
+    "sku": "MX-YXRB-HTES",
+    "condition": "New",
+    "availability": "In_stock",
+    "wpid": "1J46NSLB3IYX",
+    "upc": "810035568426",
+    "gtin": "00810035568426",
+    "productName": "Impressions Hollywood Sunset Tri Tone Makeup Mirror with LED Bulbs, Round Shape",
+    "shelf": "[\"Home Page\",\"Beauty\",\"Makeup\",\"Makeup Tools and Accessories\"]",
+    "productType": "Face Mirrors",
+    "price": {
+      "currency": "USD",
+      "amount": 99.0
+    },
+    "publishedStatus": "PUBLISHED",
+    "lifecycleStatus": "ACTIVE",
+    "isDuplicate": false
+  },
+  {
+    "mart": "WALMART_US",
+    "sku": "840173704356",
+    "condition": "New",
+    "availability": "In_stock",
+    "wpid": "7KNALH1AA59G",
+    "upc": "840173704356",
+    "gtin": "00840173704356",
+    "productName": "PopSockets Adhesive Phone Grip with Expandable Kickstand and swappable top - Shroom Blooms",
+    "shelf": "[\"Home Page\",\"Cell Phones\",\"Cell Phone Accessories\",\"Phone Grips\"]",
+    "productType": "Phone Grips",
+    "price": {
+      "currency": "USD",
+      "amount": 11.99
+    },
+    "publishedStatus": "SYSTEM_PROBLEM",
+    "unpublishedReasons": {
+      "reason": [
+        "This item is unpublished for violating Walmart's Marketplace ||Prohibited Product Policy: Intellectual Property@@@https://marketplacelearn.walmart.com/guides/Prohibited-products-policy:-intellectual-property-(IP)||. If you believe this was done in error, submit an appeal in the Seller Center Unpublished Items page."
+      ]
+    },
+    "lifecycleStatus": "ARCHIVED",
+    "isDuplicate": false
+  },
+  {
+    "mart": "WALMART_US",
+    "sku": "lg-rse-pyr",
+    "condition": "New",
+    "availability": "In_stock",
+    "wpid": "6TZV8LCMAKXT",
+    "upc": "450467070502",
+    "gtin": "00450467070502",
+    "productName": "Rose Quartz Crystal Pyramid \u2013 1.5\u20132\" Polished Pink Mineral",
+    "shelf": "[\"Home Page\",\"Home\",\"Decor\",\"Decorative Accents\",\"Decorative Stones\"]",
+    "productType": "Decorative Stones",
+    "price": {
+      "currency": "USD",
+      "amount": 39.99
+    },
+    "publishedStatus": "PUBLISHED",
+    "lifecycleStatus": "ACTIVE",
+    "isDuplicate": false
+  },
+  {
+    "mart": "WALMART_US",
+    "sku": "1TJX",
+    "condition": "New",
+    "availability": "Out_of_stock",
+    "wpid": "5SPTRGLOPGAX",
+    "upc": "716106840555",
+    "gtin": "00716106840555",
+    "productName": "adidas Women's Superlite Relaxed Adjustable Performance Cap, Black/White, ONE SIZE",
+    "shelf": "[\"Home Page\",\"Clothing\",\"Bags & Accessories\",\"Women's Bags & Accessories\",\"Women's Accessories\",\"Women's Hats, Gloves & Scarves\",\"Womens Hats\",\"Womens Baseball Caps\"]",
+    "productType": "Hats",
+    "price": {
+      "currency": "USD",
+      "amount": 44.99
+    },
+    "publishedStatus": "UNPUBLISHED",
+    "unpublishedReasons": {
+      "reason": [
+        "The image you've provided appears to be a placeholder.  Add a replacement 'Main Image' showing the product and resubmit the item.",
+        "This item is unpublished because the End Date has passed. Update the item's 'Site End Date' field to a future date to publish the item. Learn more about ||item reactivation@@@https://marketplacelearn.walmart.com/guides/Catalog%20management/Item%20management/Reactivate-an-item-in-seller-center?locale=en-US||"
+      ]
+    },
+    "lifecycleStatus": "ARCHIVED",
+    "isDuplicate": false
+  },
+  {
+    "mart": "WALMART_US",
+    "sku": "8056597139311",
+    "condition": "New",
+    "availability": "Out_of_stock",
+    "wpid": "2OFB327AUHSJ",
+    "upc": "8056597139311",
+    "gtin": "08056597139311",
+    "productName": "Ray-Ban Rb3689 Metal Ii Evolve Photochromic Aviator Sunglasses",
+    "shelf": "[\"Home Page\",\"Clothing\",\"Bags & Accessories\",\"Sunglasses\",\"Aviator Sunglasses\"]",
+    "productType": "Sunglasses",
+    "price": {
+      "currency": "USD",
+      "amount": 189.0
+    },
+    "publishedStatus": "SYSTEM_PROBLEM",
+    "unpublishedReasons": {
+      "reason": [
+        "This item is unpublished for violating Walmart's Marketplace prohibited products policy: intellectual property. If you believe this was done in error, submit an appeal in the Seller Center Unpublished Items page."
+      ]
+    },
+    "lifecycleStatus": "ARCHIVED",
+    "isDuplicate": false
+  },
+  {
+    "mart": "WALMART_US",
+    "sku": "8809416472553",
+    "condition": "New",
+    "availability": "In_stock",
+    "wpid": "5XZ6KBFTIZNK",
+    "upc": "8809416472553",
+    "gtin": "08809416472553",
+    "productName": "Tiam Vita A Bakuchiol Youth Serum, 1.35 fl oz (40 ml)",
+    "shelf": "[\"Home Page\",\"Beauty\",\"Skincare\",\"Facial Serums and Treatments\",\"Facial Treatments\"]",
+    "productType": "Face Serums",
+    "price": {
+      "currency": "USD",
+      "amount": 24.99
+    },
+    "publishedStatus": "SYSTEM_PROBLEM",
+    "unpublishedReasons": {
+      "reason": [
+        "This item was unpublished as it was listed in a cosmetics category, which is restricted to certain sellers. You can request approval to sell through Walmart's Marketplace ||enhanced vetting program@@@https://seller.Walmart.com/home?supporthub=contact-support&openForm=TDRfX0wzX1NlbGxlciBFbGlnaWJpbGl0eSBmb3IgUmVzdH||. If you believe this was done in error, submit an appeal in the Seller Center Unpublished Items page."
+      ]
+    },
+    "lifecycleStatus": "ARCHIVED",
+    "isDuplicate": false
+  },
+  {
+    "mart": "WALMART_US",
+    "sku": "18",
+    "condition": "New",
+    "availability": "Out_of_stock",
+    "wpid": "4I8YP6GEWELC",
+    "upc": "850003310442",
+    "gtin": "00850003310442",
+    "productName": "Tula Skincare Hello Radiance Illuminating Serum 1.7 fl oz",
+    "shelf": "[\"Home Page\",\"Beauty\",\"Skincare\",\"Facial Serums and Treatments\",\"Facial Treatments\"]",
+    "productType": "Face Serums",
+    "price": {
+      "currency": "USD",
+      "amount": 44.0
+    },
+    "publishedStatus": "SYSTEM_PROBLEM",
+    "unpublishedReasons": {
+      "reason": [
+        "This item was unpublished as it was listed in a cosmetics category, which is restricted to certain sellers. You can request approval to sell through Walmart's Marketplace ||enhanced vetting program@@@https://seller.Walmart.com/home?supporthub=contact-support&openForm=TDRfX0wzX1NlbGxlciBFbGlnaWJpbGl0eSBmb3IgUmVzdH||. If you believe this was done in error, submit an appeal in the Seller Center Unpublished Items page.",
+        "This item is unpublished for violating Walmart's Marketplace ||Prohibited Product Policy: Intellectual Property@@@https://marketplacelearn.walmart.com/guides/Prohibited-products-policy:-intellectual-property-(IP)||. If you believe this was done in error, submit an appeal in the Seller Center Unpublished Items page."
       ]
     },
     "lifecycleStatus": "ARCHIVED",
@@ -1233,67 +1539,18 @@
   },
   {
     "mart": "WALMART_US",
-    "sku": "48",
+    "sku": "028995051890",
     "condition": "New",
     "availability": "In_stock",
-    "wpid": "5GMAC7YB994N",
-    "upc": "840103213200",
-    "gtin": "00840103213200",
-    "productName": "ROC Multi Correxion Lifting Cream + Firming THPE 2.6 Ounce (Pack of 2)",
-    "shelf": "[\"Home Page\",\"Beauty\",\"Skincare\",\"Skin Care Concern\",\"Skin Care Products for Dry Skin\"]",
-    "productType": "Facial Moisturizers",
+    "wpid": "3A0CFUVF7WZR",
+    "upc": "028995051890",
+    "gtin": "00028995051890",
+    "productName": "Plaid Folkart Color Shift Paint 4oz Green Flash",
+    "shelf": "[\"Home Page\",\"Arts Crafts & Sewing\",\"Art Supplies\",\"Art Painting Supplies\",\"Art Paints\",\"Acrylic Paints\"]",
+    "productType": "Art Paints & Pigment Powders",
     "price": {
       "currency": "USD",
-      "amount": 31.99
-    },
-    "publishedStatus": "SYSTEM_PROBLEM",
-    "unpublishedReasons": {
-      "reason": [
-        "This item was unpublished as it was listed in a cosmetics category, which is restricted to certain sellers. You can request approval to sell through Walmart's Marketplace ||enhanced vetting program@@@https://seller.Walmart.com/home?supporthub=contact-support&openForm=TDRfX0wzX1NlbGxlciBFbGlnaWJpbGl0eSBmb3IgUmVzdH||. If you believe this was done in error, submit an appeal in the Seller Center Unpublished Items page.",
-        "This item is unpublished for violating Walmart's Marketplace prohibited products policy: intellectual property. If you believe this was done in error, submit an appeal in the Seller Center Unpublished Items page."
-      ]
-    },
-    "lifecycleStatus": "ARCHIVED",
-    "isDuplicate": false
-  },
-  {
-    "mart": "WALMART_US",
-    "sku": "21",
-    "condition": "New",
-    "availability": "Out_of_stock",
-    "wpid": "4QIXP9SV6N36",
-    "upc": "810065982964",
-    "gtin": "00810065982964",
-    "productName": "Smartpoint Handheld Mini Desktop Vacuum with Tube Attachment, Multi-Surface, New",
-    "shelf": "[\"Home Page\",\"Home\",\"Appliances\",\"Vacuums, Steamers & Floor Care\",\"Handheld Vacuums\"]",
-    "productType": "Vacuum Cleaners",
-    "price": {
-      "currency": "USD",
-      "amount": 24.0
-    },
-    "publishedStatus": "UNPUBLISHED",
-    "unpublishedReasons": {
-      "reason": [
-        "This item is unpublished because the End Date has passed. Update the item's 'Site End Date' field to a future date to publish the item. Learn more about ||item reactivation@@@https://marketplacelearn.walmart.com/guides/Catalog%20management/Item%20management/Reactivate-an-item-in-seller-center?locale=en-US||"
-      ]
-    },
-    "lifecycleStatus": "RETIRED",
-    "isDuplicate": false
-  },
-  {
-    "mart": "WALMART_US",
-    "sku": "041967796667",
-    "condition": "New",
-    "availability": "Out_of_stock",
-    "wpid": "4VC0G02181ME",
-    "upc": "041967796667",
-    "gtin": "00041967796667",
-    "productName": "Air 2 | The Original Backpack Dog Carrier",
-    "shelf": "[\"Home Page\",\"Pets\",\"Dogs\",\"Dog Carriers\",\"Dog Backpacks\"]",
-    "productType": "Pet Carriers",
-    "price": {
-      "currency": "USD",
-      "amount": 74.99
+      "amount": 28.0
     },
     "publishedStatus": "UNPUBLISHED",
     "unpublishedReasons": {
@@ -1302,18 +1559,33 @@
       ]
     },
     "lifecycleStatus": "ARCHIVED",
+    "isDuplicate": false
+  },
+  {
+    "mart": "WALMART_US",
+    "sku": "842699009526",
+    "condition": "New",
+    "availability": "In_stock",
+    "wpid": "1PR7IUWRYIKI",
+    "upc": "842699009526",
+    "gtin": "00842699009526",
+    "productName": "Serta Ortho Quilted Pillow Top Pet Dog Bed, Large Blue",
+    "shelf": "[\"Home Page\",\"Pets\",\"Dogs\",\"Dog Beds\",\"Orthopedic Dog Beds\"]",
+    "productType": "Pet Beds",
+    "price": {
+      "currency": "USD",
+      "amount": 46.46
+    },
+    "publishedStatus": "PUBLISHED",
+    "lifecycleStatus": "ACTIVE",
     "isDuplicate": false,
-    "variantGroupId": "#codisto-22",
+    "variantGroupId": "00842699009526",
     "variantGroupInfo": {
-      "isPrimary": false,
+      "isPrimary": true,
       "groupingAttributes": [
         {
-          "name": "size",
-          "value": "Medium (17\"-19\" from collar to tail)"
-        },
-        {
           "name": "actual_color",
-          "value": "Jet Black"
+          "value": "Blue"
         }
       ]
     }
@@ -1348,177 +1620,6 @@
         {
           "name": "actual_color",
           "value": "Green"
-        }
-      ]
-    }
-  },
-  {
-    "mart": "WALMART_US",
-    "sku": "857950007135",
-    "condition": "New",
-    "availability": "In_stock",
-    "wpid": "1JVJ1ZT5OQPM",
-    "upc": "857950007135",
-    "gtin": "00857950007135",
-    "productName": "Avatara Bee My Honey Sheet Face Mask, All Skin Types",
-    "shelf": "[\"Home Page\",\"Beauty\",\"Skincare\",\"Beauty Face Masks\",\"Sheet Masks\"]",
-    "productType": "Facial Masks",
-    "price": {
-      "currency": "USD",
-      "amount": 9.99
-    },
-    "publishedStatus": "SYSTEM_PROBLEM",
-    "unpublishedReasons": {
-      "reason": [
-        "This item was unpublished as it was listed in a cosmetics category, which is restricted to certain sellers. You can request approval to sell through Walmart's Marketplace ||enhanced vetting program@@@https://seller.Walmart.com/home?supporthub=contact-support&openForm=TDRfX0wzX1NlbGxlciBFbGlnaWJpbGl0eSBmb3IgUmVzdH||. If you believe this was done in error, submit an appeal in the Seller Center Unpublished Items page.",
-        "This item has been unpublished for violating Walmart's Marketplace ||Prohibited Product Policy: Cosmetics Products@@@https://marketplacelearn.walmart.com/guides/Prohibited-Products-Policy:-Cosmetic-products||. Walmart's policy prohibits unsafe cosmetics, cosmetics that contain ingredients that do not meet FDA requirements, or are designed for use only by licensed/trained professionals in a professional setting. If you believe this was done in error, submit an appeal in the Seller Center Unpublished Items page."
-      ]
-    },
-    "lifecycleStatus": "ARCHIVED",
-    "isDuplicate": false
-  },
-  {
-    "mart": "WALMART_US",
-    "sku": "8809473195655",
-    "condition": "New",
-    "availability": "In_stock",
-    "wpid": "4Y29R2K3BMRA",
-    "upc": "8809473195655",
-    "gtin": "08809473195655",
-    "productName": "[Beauty of Joseon] Green Plum Refreshing Toner : AHA + BHA [Renewed] 150ml 5.27 fl.oz",
-    "shelf": "[\"Home Page\",\"Premium Beauty\",\"Premium K-Beauty\",\"Premium Korean Skincare\",\"Korean Cleansers & Toners\"]",
-    "productType": "Facial Toners & Astringents",
-    "price": {
-      "currency": "USD",
-      "amount": 16.35
-    },
-    "publishedStatus": "SYSTEM_PROBLEM",
-    "unpublishedReasons": {
-      "reason": [
-        "This item was unpublished as it was listed in a cosmetics category, which is restricted to certain sellers. You can request approval to sell through Walmart's Marketplace ||enhanced vetting program@@@https://seller.Walmart.com/home?supporthub=contact-support&openForm=TDRfX0wzX1NlbGxlciBFbGlnaWJpbGl0eSBmb3IgUmVzdH||. If you believe this was done in error, submit an appeal in the Seller Center Unpublished Items page.",
-        "This item is unpublished for violating Walmart's Marketplace prohibited products policy: intellectual property. If you believe this was done in error, submit an appeal in the Seller Center Unpublished Items page."
-      ]
-    },
-    "lifecycleStatus": "RETIRED",
-    "isDuplicate": false,
-    "variantGroupId": "VP#08809473195655",
-    "variantGroupInfo": {
-      "isPrimary": true,
-      "groupingAttributes": [
-        {
-          "name": "multipack_quantity",
-          "value": "1"
-        }
-      ]
-    }
-  },
-  {
-    "mart": "WALMART_US",
-    "sku": "4003686390959",
-    "condition": "New",
-    "availability": "In_stock",
-    "wpid": "1X3X76WXDE2G",
-    "upc": "4003686390959",
-    "gtin": "04003686390959",
-    "productName": "Villeroy & Boch It's My Match Tumbler Set of 2 Mineral",
-    "shelf": "[\"Home Page\",\"Home\",\"Kitchen & Dining\",\"Dining & Entertaining\",\"Drinkware\",\"Drinking Glasses\"]",
-    "productType": "Tumblers",
-    "price": {
-      "currency": "USD",
-      "amount": 34.99
-    },
-    "publishedStatus": "UNPUBLISHED",
-    "unpublishedReasons": {
-      "reason": [
-        "This item is unpublished because the End Date has passed. Update the item's 'Site End Date' field to a future date to publish the item. Learn more about ||item reactivation@@@https://marketplacelearn.walmart.com/guides/Catalog%20management/Item%20management/Reactivate-an-item-in-seller-center?locale=en-US||"
-      ]
-    },
-    "lifecycleStatus": "ARCHIVED",
-    "isDuplicate": false
-  },
-  {
-    "mart": "WALMART_US",
-    "sku": "7340055309394",
-    "condition": "New",
-    "availability": "In_stock",
-    "wpid": "56T5JNI2R3S7",
-    "upc": "7340055309394",
-    "gtin": "07340055309394",
-    "productName": "Marshall Mode In-Ear Headphones White Black",
-    "shelf": "[\"Home Page\",\"Electronics\",\"Audio\",\"Headphones\",\"Shop Headphones by Type\",\"Earbuds and In-Ear Headphones\"]",
-    "productType": "Headphones",
-    "price": {
-      "currency": "USD",
-      "amount": 58.99
-    },
-    "publishedStatus": "SYSTEM_PROBLEM",
-    "unpublishedReasons": {
-      "reason": [
-        "This item is unpublished for violating Walmart's Marketplace ||Prohibited Product Policy: Intellectual Property@@@https://marketplacelearn.walmart.com/guides/Prohibited-products-policy:-intellectual-property-(IP)||. If you believe this was done in error, submit an appeal in the Seller Center Unpublished Items page."
-      ]
-    },
-    "lifecycleStatus": "ARCHIVED",
-    "isDuplicate": false
-  },
-  {
-    "mart": "WALMART_US",
-    "sku": "32",
-    "condition": "New",
-    "availability": "In_stock",
-    "wpid": "2GTH6GC0R465",
-    "upc": "3616305709851",
-    "gtin": "03616305709851",
-    "productName": "COVERGIRL TruBlend Skin Enhancer Highlighter Balm, Rose Beam 320, 0.21 oz",
-    "shelf": "[\"Home Page\",\"Beauty\",\"Beauty by Top Brands\",\"Covergirl\",\"Covergirl Highlight & Contour\"]",
-    "productType": "Highlighter Makeup",
-    "price": {
-      "currency": "USD",
-      "amount": 9.97
-    },
-    "publishedStatus": "SYSTEM_PROBLEM",
-    "unpublishedReasons": {
-      "reason": [
-        "This item was unpublished as it was listed in a cosmetics category, which is restricted to certain sellers. You can request approval to sell through Walmart's Marketplace ||enhanced vetting program@@@https://seller.Walmart.com/home?supporthub=contact-support&openForm=TDRfX0wzX1NlbGxlciBFbGlnaWJpbGl0eSBmb3IgUmVzdH||. If you believe this was done in error, submit an appeal in the Seller Center Unpublished Items page."
-      ]
-    },
-    "lifecycleStatus": "RETIRED",
-    "isDuplicate": false,
-    "variantGroupId": "COTY 03616305709844",
-    "variantGroupInfo": {
-      "isPrimary": false,
-      "groupingAttributes": [
-        {
-          "name": "actual_color",
-          "value": "Rose Beam 320"
-        }
-      ]
-    }
-  },
-  {
-    "mart": "WALMART_US",
-    "sku": "western002",
-    "condition": "New",
-    "availability": "In_stock",
-    "wpid": "37P1JLX26YAS",
-    "upc": "460285315587",
-    "gtin": "00460285315587",
-    "productName": "Western Cowboy Multi-pack Earrings - 4 Piece Set in Silver and Gold",
-    "shelf": "[\"Home Page\",\"Jewelry\",\"Earrings\",\"Stud Earrings\"]",
-    "productType": "Earrings",
-    "price": {
-      "currency": "USD",
-      "amount": 14.0
-    },
-    "publishedStatus": "PUBLISHED",
-    "lifecycleStatus": "ACTIVE",
-    "isDuplicate": false,
-    "variantGroupId": "#codisto-13",
-    "variantGroupInfo": {
-      "isPrimary": false,
-      "groupingAttributes": [
-        {
-          "name": "actual_color",
-          "value": "Silver"
         }
       ]
     }
@@ -1573,18 +1674,18 @@
   },
   {
     "mart": "WALMART_US",
-    "sku": "AF-65IA-5WZT",
+    "sku": "ced_48648204026140",
     "condition": "New",
     "availability": "In_stock",
-    "wpid": "18QNNCUPLX09",
-    "upc": "023055508673",
-    "gtin": "00023055508673",
-    "productName": "Grant Howard 50867 16 oz Sicilian Olives Oil and Vinegar Cruet, Clear",
-    "shelf": "[\"Home Page\",\"Home\",\"Storage & Organization\",\"Shop all Storage & Organization\"]",
-    "productType": "Oil & Vinegar Dispensing Bottles & Cruets",
+    "wpid": "1SYZ8PC6JG7B",
+    "upc": "840290373381",
+    "gtin": "00840290373381",
+    "productName": "APL: Athletic Propulsion Labs Women's Streamline Sneakers",
+    "shelf": "[\"Home Page\",\"Clothing\",\"Shoes\",\"Shoes\"]",
+    "productType": "Athletic Shoes",
     "price": {
       "currency": "USD",
-      "amount": 19.99
+      "amount": 189.0
     },
     "publishedStatus": "UNPUBLISHED",
     "unpublishedReasons": {
@@ -1592,28 +1693,28 @@
         "This item is unpublished because the End Date has passed. Update the item's 'Site End Date' field to a future date to publish the item. Learn more about ||item reactivation@@@https://marketplacelearn.walmart.com/guides/Catalog%20management/Item%20management/Reactivate-an-item-in-seller-center?locale=en-US||"
       ]
     },
-    "lifecycleStatus": "RETIRED",
+    "lifecycleStatus": "ARCHIVED",
     "isDuplicate": false
   },
   {
     "mart": "WALMART_US",
-    "sku": "840173704356",
+    "sku": "787790268468",
     "condition": "New",
     "availability": "In_stock",
-    "wpid": "7KNALH1AA59G",
-    "upc": "840173704356",
-    "gtin": "00840173704356",
-    "productName": "PopSockets Adhesive Phone Grip with Expandable Kickstand and swappable top - Shroom Blooms",
-    "shelf": "[\"Home Page\",\"Cell Phones\",\"Cell Phone Accessories\",\"Phone Grips\"]",
-    "productType": "Phone Grips",
+    "wpid": "619KKN0M8TL1",
+    "upc": "787790268468",
+    "gtin": "00787790268468",
+    "productName": "AIIR Jade Hair Oil 2 fl oz",
+    "shelf": "[\"Home Page\",\"Beauty\",\"Here for Every Beauty\",\"Hair Care & Hair Tools\",\"Styling Products\"]",
+    "productType": "Hair Oils",
     "price": {
       "currency": "USD",
-      "amount": 11.99
+      "amount": 39.99
     },
     "publishedStatus": "SYSTEM_PROBLEM",
     "unpublishedReasons": {
       "reason": [
-        "This item is unpublished for violating Walmart's Marketplace ||Prohibited Product Policy: Intellectual Property@@@https://marketplacelearn.walmart.com/guides/Prohibited-products-policy:-intellectual-property-(IP)||. If you believe this was done in error, submit an appeal in the Seller Center Unpublished Items page."
+        "This item was unpublished as it was listed in a cosmetics category, which is restricted to certain sellers. You can request approval to sell through Walmart's Marketplace ||enhanced vetting program@@@https://seller.Walmart.com/home?supporthub=contact-support&openForm=TDRfX0wzX1NlbGxlciBFbGlnaWJpbGl0eSBmb3IgUmVzdH||. If you believe this was done in error, submit an appeal in the Seller Center Unpublished Items page."
       ]
     },
     "lifecycleStatus": "ARCHIVED",
@@ -1621,37 +1722,84 @@
   },
   {
     "mart": "WALMART_US",
-    "sku": "CANNER410",
+    "sku": "ST-9PIK-UO5A",
     "condition": "New",
     "availability": "In_stock",
-    "wpid": "48SDH13T9Q9Z",
-    "upc": "450471369722",
-    "gtin": "00450471369722",
-    "productName": "Celestial Sterling Silver Earrings \u2013 4 Piece Set with Gold Plating",
-    "shelf": "[\"Home Page\",\"Jewelry\",\"Jewelry & Watches\"]",
-    "productType": "Earrings",
+    "wpid": "30HEV469AF50",
+    "upc": "194917655177",
+    "gtin": "00194917655177",
+    "productName": "Men's Sperry, Bahama II Sneaker",
+    "shelf": "[\"Home Page\",\"Clothing\",\"Shoes\",\"Mens Shoes\",\"Mens Slip On Shoes\",\"Mens Boat Shoes\"]",
+    "productType": "Casual & Dress Shoes",
     "price": {
       "currency": "USD",
-      "amount": 30.0
+      "amount": 44.99
     },
-    "publishedStatus": "PUBLISHED",
-    "lifecycleStatus": "ACTIVE",
+    "publishedStatus": "UNPUBLISHED",
+    "unpublishedReasons": {
+      "reason": [
+        "This item is unpublished because the End Date has passed. Update the item's 'Site End Date' field to a future date to publish the item. Learn more about ||item reactivation@@@https://marketplacelearn.walmart.com/guides/Catalog%20management/Item%20management/Reactivate-an-item-in-seller-center?locale=en-US||"
+      ]
+    },
+    "lifecycleStatus": "ARCHIVED",
+    "isDuplicate": false,
+    "variantGroupId": "BAHLC P",
+    "variantGroupInfo": {
+      "isPrimary": false,
+      "groupingAttributes": [
+        {
+          "name": "shoe_size",
+          "value": "11.5 M"
+        },
+        {
+          "name": "size",
+          "value": "11.5 M"
+        },
+        {
+          "name": "actual_color",
+          "value": "DARK BLUE"
+        }
+      ]
+    }
+  },
+  {
+    "mart": "WALMART_US",
+    "sku": "DA-NIOH-VPRC",
+    "condition": "New",
+    "availability": "Out_of_stock",
+    "wpid": "384S29JKVDA9",
+    "upc": "714415428525",
+    "gtin": "00714415428525",
+    "productName": "coming soon",
+    "shelf": "[\"UNNAV\"]",
+    "productType": "default",
+    "price": {
+      "currency": "USD",
+      "amount": 14.5
+    },
+    "publishedStatus": "SYSTEM_PROBLEM",
+    "unpublishedReasons": {
+      "reason": [
+        "This item has been unpublished for violating Walmart's Marketplace *Prohibited Product Policy*.  To republish this item please make sure you have the appropriate product type selected. If you believe this was done in error, submit an appeal in the Seller Center Pending Review page."
+      ]
+    },
+    "lifecycleStatus": "ARCHIVED",
     "isDuplicate": false
   },
   {
     "mart": "WALMART_US",
-    "sku": "9780593421529",
+    "sku": "8438051018262",
     "condition": "New",
-    "availability": "In_stock",
-    "wpid": "5TU65M9K5ZLV",
-    "upc": "9780593421529",
-    "gtin": "09780593421529",
-    "productName": "Burn After Writing Boxed Set, Book 1 (Paperback)",
-    "shelf": "[\"Home Page\",\"Books\",\"Books Box Sets\"]",
+    "availability": "Out_of_stock",
+    "wpid": "67G165GPU7VT",
+    "upc": "8438051018262",
+    "gtin": "08438051018262",
+    "productName": "Yoobi Kawaii Captain Marvel Journal",
+    "shelf": "[\"Home Page\",\"Books\",\"All Books\"]",
     "productType": "Books",
     "price": {
       "currency": "USD",
-      "amount": 29.99
+      "amount": 26.99
     },
     "publishedStatus": "SYSTEM_PROBLEM",
     "unpublishedReasons": {
@@ -1664,22 +1812,182 @@
   },
   {
     "mart": "WALMART_US",
-    "sku": "MX-YXRB-HTES",
+    "sku": "0X-SG0Y-JTBW",
     "condition": "New",
-    "availability": "In_stock",
-    "wpid": "1J46NSLB3IYX",
-    "upc": "810035568426",
-    "gtin": "00810035568426",
-    "productName": "Impressions Hollywood Sunset Tri Tone Makeup Mirror with LED Bulbs, Round Shape",
-    "shelf": "[\"Home Page\",\"Beauty\",\"Makeup\",\"Makeup Tools and Accessories\"]",
-    "productType": "Face Mirrors",
+    "availability": "Out_of_stock",
+    "wpid": "1DSEZBG9BCGO",
+    "upc": "794437315836",
+    "gtin": "00794437315836",
+    "productName": "Turbie Twist Super-Absorbent Hair Towel Microfiber Twist & Loop (Colors May Vary)",
+    "shelf": "[\"Home Page\",\"Home\",\"Bath\",\"Bath Towels\",\"Hair Towels\"]",
+    "productType": "Towels & Washcloths",
     "price": {
       "currency": "USD",
-      "amount": 99.0
+      "amount": 15.0
     },
-    "publishedStatus": "PUBLISHED",
-    "lifecycleStatus": "ACTIVE",
+    "publishedStatus": "UNPUBLISHED",
+    "unpublishedReasons": {
+      "reason": [
+        "This item is unpublished because the End Date has passed. Update the item's 'Site End Date' field to a future date to publish the item. Learn more about ||item reactivation@@@https://marketplacelearn.walmart.com/guides/Catalog%20management/Item%20management/Reactivate-an-item-in-seller-center?locale=en-US||"
+      ]
+    },
+    "lifecycleStatus": "ARCHIVED",
     "isDuplicate": false
+  },
+  {
+    "mart": "WALMART_US",
+    "sku": "ced_48648260845852",
+    "condition": "New",
+    "availability": "In_stock",
+    "wpid": "7IN3EFIS1YJN",
+    "upc": "630870158398",
+    "gtin": "00630870158398",
+    "productName": "Le Creuset Toughened Non-Stick Bakeware Insulated Cookie Tray - 38 cm",
+    "shelf": "[\"Home Page\",\"Home\",\"Kitchen & Dining\",\"Bakeware\",\"Shop Bakeware\"]",
+    "productType": "Baking & Cookie Sheets",
+    "price": {
+      "currency": "USD",
+      "amount": 54.99
+    },
+    "publishedStatus": "UNPUBLISHED",
+    "unpublishedReasons": {
+      "reason": [
+        "This item is unpublished because the End Date has passed. Update the item's 'Site End Date' field to a future date to publish the item. Learn more about ||item reactivation@@@https://marketplacelearn.walmart.com/guides/Catalog%20management/Item%20management/Reactivate-an-item-in-seller-center?locale=en-US||"
+      ]
+    },
+    "lifecycleStatus": "ARCHIVED",
+    "isDuplicate": false
+  },
+  {
+    "mart": "WALMART_US",
+    "sku": "1B-I8W5-NYQB",
+    "condition": "New",
+    "availability": "In_stock",
+    "wpid": "6BPOKRMUJ7QF",
+    "upc": "052427602701",
+    "gtin": "00052427602701",
+    "productName": "Gorilla Crystal Clear Tape, 1.88 inch x 27 ft Roll",
+    "shelf": "[\"Home Page\",\"Home Improvement\",\"Building Materials\",\"Sealants, Fillers and Adhesives\",\"All Sealants, Fillers & Adhesives\"]",
+    "productType": "Transparent Tapes",
+    "price": {
+      "currency": "USD",
+      "amount": 20.0
+    },
+    "publishedStatus": "UNPUBLISHED",
+    "unpublishedReasons": {
+      "reason": [
+        "This item is unpublished because the End Date has passed. Update the item's 'Site End Date' field to a future date to publish the item. Learn more about ||item reactivation@@@https://marketplacelearn.walmart.com/guides/Catalog%20management/Item%20management/Reactivate-an-item-in-seller-center?locale=en-US||",
+        "This item is unpublished because it violates ||Walmart Marketplace's Pricing Rule@@@https://marketplacelearn.walmart.com/guides/Catalog%20management/Price%20management/Pricing-rules||, which prevents price gouging, or other unfair or abusive pricing practices. Review and update the price to republish the item."
+      ]
+    },
+    "lifecycleStatus": "ARCHIVED",
+    "isDuplicate": false,
+    "variantGroupId": "00052427606006",
+    "variantGroupInfo": {
+      "isPrimary": true,
+      "groupingAttributes": [
+        {
+          "name": "multipack_quantity",
+          "value": "1"
+        },
+        {
+          "name": "size",
+          "value": "9yd"
+        }
+      ]
+    }
+  },
+  {
+    "mart": "WALMART_US",
+    "sku": "HI-VIG5-CXWX",
+    "condition": "New",
+    "availability": "In_stock",
+    "wpid": "68UWUQDG3LOG",
+    "upc": "851414002261",
+    "gtin": "00851414002261",
+    "productName": "Pratt Retail Specialties 5 in. x 1000 ft. Stretch Wrap",
+    "shelf": "[\"Home Page\",\"Office Supplies\",\"Moving\",\"Packing Materials\",\"Shrink Wrap\"]",
+    "productType": "Stretch Film & Shrink Wrap",
+    "price": {
+      "currency": "USD",
+      "amount": 22.0
+    },
+    "publishedStatus": "UNPUBLISHED",
+    "unpublishedReasons": {
+      "reason": [
+        "This item is unpublished because the End Date has passed. Update the item's 'Site End Date' field to a future date to publish the item. Learn more about ||item reactivation@@@https://marketplacelearn.walmart.com/guides/Catalog%20management/Item%20management/Reactivate-an-item-in-seller-center?locale=en-US||"
+      ]
+    },
+    "lifecycleStatus": "ARCHIVED",
+    "isDuplicate": false
+  },
+  {
+    "mart": "WALMART_US",
+    "sku": "5011386086989",
+    "condition": "New",
+    "availability": "Out_of_stock",
+    "wpid": "5UM765ZA9JC8",
+    "upc": "5011386086989",
+    "gtin": "05011386086989",
+    "productName": "Daler-Rowney Simply Masking Fluid, White, 75 ml, 1 Each - Art Supply for Students and Artists",
+    "shelf": "[\"Home Page\",\"Arts Crafts & Sewing\",\"Art Supplies\",\"Art Painting Supplies\",\"Shop Art Painting Supplies\"]",
+    "productType": "Art Paint Mediums",
+    "price": {
+      "currency": "USD",
+      "amount": 10.89
+    },
+    "publishedStatus": "UNPUBLISHED",
+    "unpublishedReasons": {
+      "reason": [
+        "This item is unpublished because the End Date has passed. Update the item's 'Site End Date' field to a future date to publish the item. Learn more about ||item reactivation@@@https://marketplacelearn.walmart.com/guides/Catalog%20management/Item%20management/Reactivate-an-item-in-seller-center?locale=en-US||"
+      ]
+    },
+    "lifecycleStatus": "RETIRED",
+    "isDuplicate": false,
+    "variantGroupId": "VP#05011386086989",
+    "variantGroupInfo": {
+      "isPrimary": true,
+      "groupingAttributes": [
+        {
+          "name": "multipack_quantity",
+          "value": "1"
+        }
+      ]
+    }
+  },
+  {
+    "mart": "WALMART_US",
+    "sku": "32",
+    "condition": "New",
+    "availability": "In_stock",
+    "wpid": "2GTH6GC0R465",
+    "upc": "3616305709851",
+    "gtin": "03616305709851",
+    "productName": "COVERGIRL TruBlend Skin Enhancer Highlighter Balm, Rose Beam 320, 0.21 oz",
+    "shelf": "[\"Home Page\",\"Beauty\",\"Beauty by Top Brands\",\"Covergirl\",\"Covergirl Highlight & Contour\"]",
+    "productType": "Highlighter Makeup",
+    "price": {
+      "currency": "USD",
+      "amount": 9.97
+    },
+    "publishedStatus": "SYSTEM_PROBLEM",
+    "unpublishedReasons": {
+      "reason": [
+        "This item was unpublished as it was listed in a cosmetics category, which is restricted to certain sellers. You can request approval to sell through Walmart's Marketplace ||enhanced vetting program@@@https://seller.Walmart.com/home?supporthub=contact-support&openForm=TDRfX0wzX1NlbGxlciBFbGlnaWJpbGl0eSBmb3IgUmVzdH||. If you believe this was done in error, submit an appeal in the Seller Center Unpublished Items page."
+      ]
+    },
+    "lifecycleStatus": "RETIRED",
+    "isDuplicate": false,
+    "variantGroupId": "COTY 03616305709844",
+    "variantGroupInfo": {
+      "isPrimary": false,
+      "groupingAttributes": [
+        {
+          "name": "actual_color",
+          "value": "Rose Beam 320"
+        }
+      ]
+    }
   },
   {
     "mart": "WALMART_US",
@@ -1726,18 +2034,80 @@
   },
   {
     "mart": "WALMART_US",
-    "sku": "043859774630",
+    "sku": "041967796667",
     "condition": "New",
     "availability": "Out_of_stock",
-    "wpid": "312PSJYVOG5C",
-    "upc": "043859774630",
-    "gtin": "00043859774630",
-    "productName": "Body Glove Tidal Waterproof Phone Case for Samsung Galaxy A32 5G - Black/Clear",
-    "shelf": "[\"Home Page\",\"Cell Phones\",\"Cell Phone Accessories\",\"Phone Cases\",\"All Phone Cases\"]",
-    "productType": "Cell Phone Cases",
+    "wpid": "4VC0G02181ME",
+    "upc": "041967796667",
+    "gtin": "00041967796667",
+    "productName": "Air 2 | The Original Backpack Dog Carrier",
+    "shelf": "[\"Home Page\",\"Pets\",\"Dogs\",\"Dog Carriers\",\"Dog Backpacks\"]",
+    "productType": "Pet Carriers",
     "price": {
       "currency": "USD",
-      "amount": 22.58
+      "amount": 74.99
+    },
+    "publishedStatus": "UNPUBLISHED",
+    "unpublishedReasons": {
+      "reason": [
+        "This item is unpublished because the End Date has passed. Update the item's 'Site End Date' field to a future date to publish the item. Learn more about ||item reactivation@@@https://marketplacelearn.walmart.com/guides/Catalog%20management/Item%20management/Reactivate-an-item-in-seller-center?locale=en-US||"
+      ]
+    },
+    "lifecycleStatus": "ARCHIVED",
+    "isDuplicate": false,
+    "variantGroupId": "#codisto-22",
+    "variantGroupInfo": {
+      "isPrimary": false,
+      "groupingAttributes": [
+        {
+          "name": "size",
+          "value": "Medium (17\"-19\" from collar to tail)"
+        },
+        {
+          "name": "actual_color",
+          "value": "Jet Black"
+        }
+      ]
+    }
+  },
+  {
+    "mart": "WALMART_US",
+    "sku": "667558209745",
+    "condition": "New",
+    "availability": "Out_of_stock",
+    "wpid": "6TSM36NI7HIA",
+    "upc": "667558209745",
+    "gtin": "00667558209745",
+    "productName": "2 Pack Bath and Body Works Travel Size Body Care - 2.5 Oz 24 Hour Moisture Body Cream - Stress Relief - Eucalyptus + Spearmint",
+    "shelf": "[\"Home Page\",\"Beauty\",\"Travel Size Essentials\",\"Travel Size Bath\",\"Travel Bath and Body\"]",
+    "productType": "Body Moisturizers",
+    "price": {
+      "currency": "USD",
+      "amount": 17.8
+    },
+    "publishedStatus": "SYSTEM_PROBLEM",
+    "unpublishedReasons": {
+      "reason": [
+        "This item was unpublished as it was listed in a cosmetics category, which is restricted to certain sellers. You can request approval to sell through Walmart's Marketplace ||enhanced vetting program@@@https://seller.Walmart.com/home?supporthub=contact-support&openForm=TDRfX0wzX1NlbGxlciBFbGlnaWJpbGl0eSBmb3IgUmVzdH||. If you believe this was done in error, submit an appeal in the Seller Center Unpublished Items page."
+      ]
+    },
+    "lifecycleStatus": "ARCHIVED",
+    "isDuplicate": false
+  },
+  {
+    "mart": "WALMART_US",
+    "sku": "641590010118",
+    "condition": "New",
+    "availability": "In_stock",
+    "wpid": "6TWULXNEXT2G",
+    "upc": "641590010118",
+    "gtin": "00641590010118",
+    "productName": "4006859 AIR FILTR SYNTHTC 16X16\"\" True Blue 16 in. W X 16 in. H X 1 in. D Synthetic 7 MERV Pleated Air Filter ,(Pack of 12)",
+    "shelf": "[\"Home Page\",\"Home Improvement\",\"Heating, Cooling, & Air Quality\",\"Air Quality\",\"Furnace Air Filters\",\"Allergen Air Filters\"]",
+    "productType": "Furnace Filters",
+    "price": {
+      "currency": "USD",
+      "amount": 32.99
     },
     "publishedStatus": "UNPUBLISHED",
     "unpublishedReasons": {
@@ -1750,18 +2120,18 @@
   },
   {
     "mart": "WALMART_US",
-    "sku": "190808005397",
+    "sku": "faire38",
     "condition": "New",
-    "availability": "In_stock",
-    "wpid": "1PMTSR44KK19",
-    "upc": "190808005397",
-    "gtin": "00190808005397",
-    "productName": "Cyan Design Calista Pendant",
-    "shelf": "[\"Home Page\",\"Home\",\"Decor\",\"Lighting & Light Fixtures\",\"Ceiling Lights & Fixtures\",\"Pendant Lights\",\"Kitchen Island Pendant Lights\"]",
-    "productType": "Pendant Lights",
+    "availability": "Out_of_stock",
+    "wpid": "4O9AF40TFXPJ",
+    "upc": "813686021272",
+    "gtin": "00813686021272",
+    "productName": "Dame Products Pom Personal Massager for Women - Flexible Bendy Targeted Stress Reliever - 5 Speeds - Rechargeable - 100% Waterproof and Body-Safe - Ice Color",
+    "shelf": "[\"Home Page\",\"Health and Medicine\",\"Massage\",\"Shop all Massagers\"]",
+    "productType": "Massagers",
     "price": {
       "currency": "USD",
-      "amount": 79.99
+      "amount": 98.0
     },
     "publishedStatus": "UNPUBLISHED",
     "unpublishedReasons": {
@@ -1771,31 +2141,55 @@
     },
     "lifecycleStatus": "ARCHIVED",
     "isDuplicate": false,
-    "variantGroupId": "CYD1583",
+    "variantGroupId": "ED4-EVA-122",
     "variantGroupInfo": {
-      "isPrimary": false,
+      "isPrimary": true,
       "groupingAttributes": [
         {
-          "name": "finish",
-          "value": "Copper Mercury"
+          "name": "actual_color",
+          "value": "Ice"
         }
       ]
     }
   },
   {
     "mart": "WALMART_US",
-    "sku": "31",
+    "sku": "817494015317",
     "condition": "New",
     "availability": "Out_of_stock",
-    "wpid": "0U9G356HC3MY",
-    "upc": "3616305709790",
-    "gtin": "03616305709790",
-    "productName": "COVERGIRL TruBlend Skin Enhancer Contour Balm, Sculpted 120, 0.21 oz",
-    "shelf": "[\"Home Page\",\"Beauty\",\"Beauty by Top Brands\",\"Covergirl\",\"Covergirl Highlight & Contour\"]",
-    "productType": "Contour Makeup Set",
+    "wpid": "6SY5ROXXHLPK",
+    "upc": "817494015317",
+    "gtin": "00817494015317",
+    "productName": "SUNDAY RILEY Charcoal Smoothie Jelly Body Scrub 7oz - New",
+    "shelf": "[\"Home Page\",\"Personal Care\",\"Bath & Body\",\"Spa & Massage\",\"Exfoliators\"]",
+    "productType": "Body Scrubs",
     "price": {
       "currency": "USD",
-      "amount": 9.97
+      "amount": 50.0
+    },
+    "publishedStatus": "SYSTEM_PROBLEM",
+    "unpublishedReasons": {
+      "reason": [
+        "This item has been unpublished for violating Walmart's Marketplace ||Prohibited Product Policy@@@https://marketplacelearn.walmart.com/guides/Policies%20&%20standards/Prohibited%20products%20&%20brands/Prohibited-products-policy:-overview||. If you believe this was done in error, submit an appeal in the Seller Center Unpublished Items page."
+      ]
+    },
+    "lifecycleStatus": "ARCHIVED",
+    "isDuplicate": false
+  },
+  {
+    "mart": "WALMART_US",
+    "sku": "860002984735",
+    "condition": "New",
+    "availability": "In_stock",
+    "wpid": "5OXVTXE4CMLD",
+    "upc": "860002984735",
+    "gtin": "00860002984735",
+    "productName": "Everyday By Unsun SPF 30 Mineral Tinted Face Sunscreen Lotion 1.7 oz",
+    "shelf": "[\"Home Page\",\"Beauty\",\"Skincare\",\"Sunscreen\",\"SPF 15 to 30\"]",
+    "productType": "Facial Sunscreens",
+    "price": {
+      "currency": "USD",
+      "amount": 14.99
     },
     "publishedStatus": "SYSTEM_PROBLEM",
     "unpublishedReasons": {
@@ -1804,67 +2198,181 @@
       ]
     },
     "lifecycleStatus": "RETIRED",
+    "isDuplicate": false
+  },
+  {
+    "mart": "WALMART_US",
+    "sku": "6F-FR9A-26HR",
+    "condition": "New",
+    "availability": "Out_of_stock",
+    "wpid": "3340FFC5WNLH",
+    "upc": "849980053848",
+    "gtin": "00849980053848",
+    "productName": "The Cr&egrave;me Shop Korean Skincare | Aloe Vera Face Sheet Mask 5 Pack",
+    "shelf": "[\"Home Page\",\"Beauty\",\"Skincare\",\"Beauty Face Masks\",\"Wash-off Face Masks\"]",
+    "productType": "Facial Masks",
+    "price": {
+      "currency": "USD",
+      "amount": 12.0
+    },
+    "publishedStatus": "SYSTEM_PROBLEM",
+    "unpublishedReasons": {
+      "reason": [
+        "This item was unpublished as it was listed in a cosmetics category, which is restricted to certain sellers. You can request approval to sell through Walmart's Marketplace ||enhanced vetting program@@@https://seller.Walmart.com/home?supporthub=contact-support&openForm=TDRfX0wzX1NlbGxlciBFbGlnaWJpbGl0eSBmb3IgUmVzdH||. If you believe this was done in error, submit an appeal in the Seller Center Unpublished Items page."
+      ]
+    },
+    "lifecycleStatus": "ARCHIVED",
+    "isDuplicate": false
+  },
+  {
+    "mart": "WALMART_US",
+    "sku": "814333026800",
+    "condition": "New",
+    "availability": "Out_of_stock",
+    "wpid": "18QKU8U5AGEE",
+    "upc": "814333026800",
+    "gtin": "00814333026800",
+    "productName": "Milk Makeup Vegan Milk Moisturizer 15ml Mini Size",
+    "shelf": "[\"Home Page\",\"Health and Medicine\",\"Sports Medicine & Injury Recovery Solution\",\"Optimize Performance\",\"Look Good, Feel Good\",\"Prep Your Skin for the Gym\"]",
+    "productType": "Facial Moisturizers",
+    "price": {
+      "currency": "USD",
+      "amount": 19.95
+    },
+    "publishedStatus": "SYSTEM_PROBLEM",
+    "unpublishedReasons": {
+      "reason": [
+        "This item was unpublished as it was listed in a cosmetics category, which is restricted to certain sellers. You can request approval to sell through Walmart's Marketplace ||enhanced vetting program@@@https://seller.Walmart.com/home?supporthub=contact-support&openForm=TDRfX0wzX1NlbGxlciBFbGlnaWJpbGl0eSBmb3IgUmVzdH||. If you believe this was done in error, submit an appeal in the Seller Center Unpublished Items page."
+      ]
+    },
+    "lifecycleStatus": "ARCHIVED",
+    "isDuplicate": false
+  },
+  {
+    "mart": "WALMART_US",
+    "sku": "ali5",
+    "condition": "New",
+    "availability": "Out_of_stock",
+    "wpid": "6M76PV5YHBI8",
+    "upc": "2145249899775",
+    "gtin": "02145249899775",
+    "productName": "LANEIGE Water Sleeping Mask Overnight Gel, Replenishes Skin to Brighten, Clarify, Hydrate and Strengthen Skin's Moisture Barrier with Sleep-biome technology and Squalane, 2.4 fl. oz.",
+    "shelf": "[\"Home Page\",\"Beauty\",\"Skincare\",\"Beauty Face Masks\",\"Gel Masks\"]",
+    "productType": "Facial Masks",
+    "price": {
+      "currency": "USD",
+      "amount": 23.99
+    },
+    "publishedStatus": "SYSTEM_PROBLEM",
+    "unpublishedReasons": {
+      "reason": [
+        "This item is unpublished for violating Walmart's Marketplace ||Prohibited Product Policy: Intellectual Property@@@https://marketplacelearn.walmart.com/guides/Prohibited-products-policy:-intellectual-property-(IP)||. If you believe this was done in error, submit an appeal in the Seller Center Unpublished Items page."
+      ]
+    },
+    "lifecycleStatus": "RETIRED",
+    "isDuplicate": false
+  },
+  {
+    "mart": "WALMART_US",
+    "sku": "22tjx",
+    "condition": "New",
+    "availability": "Out_of_stock",
+    "wpid": "5G3B0ND11OUB",
+    "upc": "643950477432",
+    "gtin": "00643950477432",
+    "productName": "OnDisplay Emma 2 Drawer Tiered Mirrored Glass Makeup/Jewelry Organizer (Silver)",
+    "shelf": "[\"Home Page\",\"Home\",\"Bath\",\"Bathroom Storage\"]",
+    "productType": "Makeup Organizers",
+    "price": {
+      "currency": "USD",
+      "amount": 49.0
+    },
+    "publishedStatus": "UNPUBLISHED",
+    "unpublishedReasons": {
+      "reason": [
+        "This item is unpublished because the End Date has passed. Update the item's 'Site End Date' field to a future date to publish the item. Learn more about ||item reactivation@@@https://marketplacelearn.walmart.com/guides/Catalog%20management/Item%20management/Reactivate-an-item-in-seller-center?locale=en-US||"
+      ]
+    },
+    "lifecycleStatus": "ARCHIVED",
     "isDuplicate": false,
-    "variantGroupId": "COTY 03616305709790",
+    "variantGroupId": "1F78CF1_24007186_5C9BB2671E1E9004",
     "variantGroupInfo": {
       "isPrimary": true,
       "groupingAttributes": [
         {
           "name": "actual_color",
-          "value": "Sculpted 120"
+          "value": "Silver"
         }
       ]
     }
   },
   {
     "mart": "WALMART_US",
-    "sku": "605069068185",
+    "sku": "western002",
     "condition": "New",
     "availability": "In_stock",
-    "wpid": "6S9HZRXYIBTZ",
-    "upc": "605069068185",
-    "gtin": "00605069068185",
-    "productName": "Himalaya Ashwagandha+ Relax for Stress Support and Energy with GABA & Holy Basil, 540 mg, 60 Capsules",
-    "shelf": "[\"Home Page\",\"Health and Medicine\",\"Vitamins and Supplements\",\"Mood & Stress Support Supplements\",\"Stress Support Supplements\"]",
-    "productType": "Herbal Supplements",
+    "wpid": "37P1JLX26YAS",
+    "upc": "460285315587",
+    "gtin": "00460285315587",
+    "productName": "Western Cowboy Multi-pack Earrings - 4 Piece Set in Silver and Gold",
+    "shelf": "[\"Home Page\",\"Jewelry\",\"Earrings\",\"Stud Earrings\"]",
+    "productType": "Earrings",
     "price": {
       "currency": "USD",
-      "amount": 22.99
+      "amount": 14.0
+    },
+    "publishedStatus": "PUBLISHED",
+    "lifecycleStatus": "ACTIVE",
+    "isDuplicate": false,
+    "variantGroupId": "#codisto-13",
+    "variantGroupInfo": {
+      "isPrimary": false,
+      "groupingAttributes": [
+        {
+          "name": "actual_color",
+          "value": "Silver"
+        }
+      ]
+    }
+  },
+  {
+    "mart": "WALMART_US",
+    "sku": "9780593421529",
+    "condition": "New",
+    "availability": "In_stock",
+    "wpid": "5TU65M9K5ZLV",
+    "upc": "9780593421529",
+    "gtin": "09780593421529",
+    "productName": "Burn After Writing Boxed Set, Book 1 (Paperback)",
+    "shelf": "[\"Home Page\",\"Books\",\"Books Box Sets\"]",
+    "productType": "Books",
+    "price": {
+      "currency": "USD",
+      "amount": 29.99
     },
     "publishedStatus": "SYSTEM_PROBLEM",
     "unpublishedReasons": {
       "reason": [
-        "This item was unpublished as it was listed in a dietary supplement category, which is restricted to certain sellers. You can request approval to sell through Walmart's Marketplace ||enhanced vetting program@@@https://seller.Walmart.com/home?supporthub=contact-support&openForm=TDRfX0wzX1NlbGxlciBFbGlnaWJpbGl0eSBmb3IgUmVzdH||. If you believe this was done in error, submit an appeal in the Seller Center Unpublished Items page.",
-        "This item is unpublished for violating Walmart's Marketplace prohibited products policy: intellectual property. If you believe this was done in error, submit an appeal in the Seller Center Unpublished Items page."
+        "This item is unpublished because it violates our ||Prohibited Products Policy@@@https://marketplacelearn.walmart.com/guides/Policies%20&%20standards/Prohibited%20products%20&%20brands/Prohibited-products-policy:-overview?locale=en-US||. For help with this item, open a support case and reference code BIZ."
       ]
     },
     "lifecycleStatus": "ARCHIVED",
-    "isDuplicate": false,
-    "variantGroupId": "Ash style",
-    "variantGroupInfo": {
-      "isPrimary": true,
-      "groupingAttributes": [
-        {
-          "name": "medicine_strength",
-          "value": "Relax"
-        }
-      ]
-    }
+    "isDuplicate": false
   },
   {
     "mart": "WALMART_US",
-    "sku": "849980085207",
+    "sku": "12marsh",
     "condition": "New",
-    "availability": "In_stock",
-    "wpid": "5VYKVDBG15S7",
-    "upc": "849980085207",
-    "gtin": "00849980085207",
-    "productName": "The Cr\u00e8me Shop x Hello Kitty: RED HK Press-On Nails",
-    "shelf": "[\"Home Page\",\"Beauty\",\"Nail Care\",\"Fake Nails\",\"Press On Nails\"]",
-    "productType": "False Nails",
+    "availability": "Out_of_stock",
+    "wpid": "4O6DXLDNCON7",
+    "upc": "022517507452",
+    "gtin": "00022517507452",
+    "productName": "Catit Design Senses Food Maze Interactive Cat Feeder and Toy",
+    "shelf": "[\"Home Page\",\"Pets\",\"Dogs\",\"Dog Bowls and Accessories\",\"Dog Bowls and Feeders\"]",
+    "productType": "Cat Toys",
     "price": {
       "currency": "USD",
-      "amount": 17.99
+      "amount": 37.0
     },
     "publishedStatus": "UNPUBLISHED",
     "unpublishedReasons": {
@@ -1877,18 +2385,18 @@
   },
   {
     "mart": "WALMART_US",
-    "sku": "071249664155",
+    "sku": "810052961668",
     "condition": "New",
-    "availability": "In_stock",
-    "wpid": "5H2K5MO8EXHU",
-    "upc": "071249664155",
-    "gtin": "00071249664155",
-    "productName": "L'Oreal Paris Infallible Soft Matte Bronzer, Fair, 0.31 oz",
-    "shelf": "[\"Home Page\",\"Beauty\",\"Beauty by Topic\",\"Young Adult Beauty\"]",
-    "productType": "Bronzing Makeup",
+    "availability": "Out_of_stock",
+    "wpid": "0SV6M670INR1",
+    "upc": "810052961668",
+    "gtin": "00810052961668",
+    "productName": "Glow Recipe Mini Watermelon Glow AHA Night Treatment 25ml",
+    "shelf": "[\"Home Page\",\"Premium Beauty\",\"Premium K-Beauty\",\"Premium Korean Skincare\",\"Korean Moisturizers & Treatments\"]",
+    "productType": "Facial Moisturizers",
     "price": {
       "currency": "USD",
-      "amount": 13.99
+      "amount": 32.0
     },
     "publishedStatus": "SYSTEM_PROBLEM",
     "unpublishedReasons": {
@@ -1898,31 +2406,59 @@
     },
     "lifecycleStatus": "ARCHIVED",
     "isDuplicate": false,
-    "variantGroupId": "00071249664179",
+    "variantGroupId": "WEB-KOH-5777657",
     "variantGroupInfo": {
       "isPrimary": false,
       "groupingAttributes": [
         {
           "name": "actual_color",
-          "value": "200 Fair"
+          "value": "None"
+        },
+        {
+          "name": "clothing_size",
+          "value": "1 FL OZ"
         }
       ]
     }
   },
   {
     "mart": "WALMART_US",
-    "sku": "7M-S4QN-E3VQ",
+    "sku": "630282085350",
     "condition": "New",
     "availability": "In_stock",
-    "wpid": "3LRKYXBR9P91",
-    "upc": "8806334387211",
-    "gtin": "08806334387211",
-    "productName": "Gold Kiwi Vita C Plus Brihgtening Toner 150ml",
-    "shelf": "[\"Home Page\",\"Beauty\",\"Skincare\",\"Face Cleansers\",\"Face Toners\",\"Face Toner\"]",
-    "productType": "Facial Toners & Astringents",
+    "wpid": "34FLGE4URG95",
+    "upc": "630282085350",
+    "gtin": "00630282085350",
+    "productName": "Nueboo Premium Breast Tape",
+    "shelf": "[\"UNNAV\"]",
+    "productType": "Breast Tape",
     "price": {
       "currency": "USD",
-      "amount": 21.99
+      "amount": 18.99
+    },
+    "publishedStatus": "SYSTEM_PROBLEM",
+    "unpublishedReasons": {
+      "reason": [
+        "This item is unpublished for violating Walmart's Marketplace ||Prohibited Product Policy: Intellectual Property@@@https://marketplacelearn.walmart.com/guides/Prohibited-products-policy:-intellectual-property-(IP)||. If you believe this was done in error, submit an appeal in the Seller Center Unpublished Items page."
+      ]
+    },
+    "lifecycleStatus": "ARCHIVED",
+    "isDuplicate": false
+  },
+  {
+    "mart": "WALMART_US",
+    "sku": "810020173239",
+    "condition": "New",
+    "availability": "In_stock",
+    "wpid": "79BBRLIXDQSN",
+    "upc": "810020173239",
+    "gtin": "00810020173239",
+    "productName": "Bondi Sands Skin Illuminator Gradual Tanning Lotion 150ml",
+    "shelf": "[\"Home Page\",\"Personal Care\",\"Bondi Sands\"]",
+    "productType": "Body Self-Tanners",
+    "price": {
+      "currency": "USD",
+      "amount": 21.4
     },
     "publishedStatus": "SYSTEM_PROBLEM",
     "unpublishedReasons": {
@@ -1930,7 +2466,7 @@
         "This item was unpublished as it was listed in a cosmetics category, which is restricted to certain sellers. You can request approval to sell through Walmart's Marketplace ||enhanced vetting program@@@https://seller.Walmart.com/home?supporthub=contact-support&openForm=TDRfX0wzX1NlbGxlciBFbGlnaWJpbGl0eSBmb3IgUmVzdH||. If you believe this was done in error, submit an appeal in the Seller Center Unpublished Items page."
       ]
     },
-    "lifecycleStatus": "ARCHIVED",
+    "lifecycleStatus": "RETIRED",
     "isDuplicate": false
   },
   {
@@ -2017,149 +2553,53 @@
   },
   {
     "mart": "WALMART_US",
-    "sku": "380alib",
+    "sku": "8056597463683",
     "condition": "New",
     "availability": "Out_of_stock",
-    "wpid": "6EO5173CIM3P",
-    "upc": "1486433098255",
-    "gtin": "01486433098255",
-    "productName": "Anua Rice 70 Glow Milky Toner 250 ml",
-    "shelf": "[\"Home Page\",\"Premium Beauty\",\"Premium K-Beauty\",\"Premium Korean Skincare\",\"Korean Cleansers & Toners\"]",
-    "productType": "Facial Toners & Astringents",
+    "wpid": "2KVOHLTW6NYL",
+    "upc": "8056597463683",
+    "gtin": "08056597463683",
+    "productName": "Sunglasses Ray-Ban RB 3025 9224T5 Aviator Large Metal Violet Pho",
+    "shelf": "[\"Home Page\",\"Clothing\",\"Bags & Accessories\",\"Sunglasses\",\"Aviator Sunglasses\"]",
+    "productType": "Sunglasses",
     "price": {
       "currency": "USD",
-      "amount": 21.99
+      "amount": 190.0
     },
     "publishedStatus": "SYSTEM_PROBLEM",
     "unpublishedReasons": {
       "reason": [
-        "This item is unpublished for violating Walmart's Marketplace ||Prohibited Product Policy: Intellectual Property@@@https://marketplacelearn.walmart.com/guides/Prohibited-products-policy:-intellectual-property-(IP)||. If you believe this was done in error, submit an appeal in the Seller Center Unpublished Items page."
-      ]
-    },
-    "lifecycleStatus": "RETIRED",
-    "isDuplicate": false
-  },
-  {
-    "mart": "WALMART_US",
-    "sku": "1d",
-    "condition": "New",
-    "availability": "Out_of_stock",
-    "wpid": "3OK4A9NDV5UC",
-    "upc": "194253416449",
-    "gtin": "00194253416449",
-    "productName": "Apple iPhone 14 Pro Silicone Case with MagSafe - Midnight",
-    "shelf": "[\"Home Page\",\"Cell Phones\",\"Cell Phone Accessories\",\"Phone Cases\",\"All Phone Cases\"]",
-    "productType": "Cell Phone Cases",
-    "price": {
-      "currency": "USD",
-      "amount": 40.0
-    },
-    "publishedStatus": "SYSTEM_PROBLEM",
-    "unpublishedReasons": {
-      "reason": [
-        "This item is prohibited due to a Walmart policy, in which Walmart has partnered with select brands. For more details, create a case for Partner Support and include the code BIZ. "
-      ]
-    },
-    "lifecycleStatus": "ARCHIVED",
-    "isDuplicate": false
-  },
-  {
-    "mart": "WALMART_US",
-    "sku": "850026905199",
-    "condition": "New",
-    "availability": "Out_of_stock",
-    "wpid": "57XET44CFWOI",
-    "upc": "850026905199",
-    "gtin": "00850026905199",
-    "productName": "HERBIVORE Moon Fruit Retinol Alternative Sleep Mask 1.7oz - Imperfect Box",
-    "shelf": "[\"Home Page\",\"Beauty\",\"Skincare\",\"Beauty Face Masks\",\"Wash-off Face Masks\"]",
-    "productType": "Facial Masks",
-    "price": {
-      "currency": "USD",
-      "amount": 54.99
-    },
-    "publishedStatus": "SYSTEM_PROBLEM",
-    "unpublishedReasons": {
-      "reason": [
-        "This item was unpublished as it was listed in a cosmetics category, which is restricted to certain sellers. You can request approval to sell through Walmart's Marketplace ||enhanced vetting program@@@https://seller.Walmart.com/home?supporthub=contact-support&openForm=TDRfX0wzX1NlbGxlciBFbGlnaWJpbGl0eSBmb3IgUmVzdH||. If you believe this was done in error, submit an appeal in the Seller Center Unpublished Items page."
-      ]
-    },
-    "lifecycleStatus": "ARCHIVED",
-    "isDuplicate": false
-  },
-  {
-    "mart": "WALMART_US",
-    "sku": "656497636378",
-    "condition": "New",
-    "availability": "Out_of_stock",
-    "wpid": "4AEEKKP9WCVD",
-    "upc": "656497636378",
-    "gtin": "00656497636378",
-    "productName": "Profusion Cosmetics Jurassic Park 30 Hydrating Lip Plump - Isla Nublar",
-    "shelf": "[\"Home Page\",\"Beauty\",\"Makeup\",\"Lip Makeup\",\"Lipstick\"]",
-    "productType": "Lipsticks",
-    "price": {
-      "currency": "USD",
-      "amount": 11.99
-    },
-    "publishedStatus": "SYSTEM_PROBLEM",
-    "unpublishedReasons": {
-      "reason": [
-        "This item was unpublished as it was listed in a cosmetics category, which is restricted to certain sellers. You can request approval to sell through Walmart's Marketplace ||enhanced vetting program@@@https://seller.Walmart.com/home?supporthub=contact-support&openForm=TDRfX0wzX1NlbGxlciBFbGlnaWJpbGl0eSBmb3IgUmVzdH||. If you believe this was done in error, submit an appeal in the Seller Center Unpublished Items page."
+        "This item is unpublished for violating Walmart's Marketplace prohibited products policy: intellectual property. If you believe this was done in error, submit an appeal in the Seller Center Unpublished Items page."
       ]
     },
     "lifecycleStatus": "ARCHIVED",
     "isDuplicate": false,
-    "variantGroupId": "00656497636354",
+    "variantGroupId": "6671090319517",
     "variantGroupInfo": {
-      "isPrimary": false,
+      "isPrimary": true,
       "groupingAttributes": [
         {
           "name": "actual_color",
-          "value": "Isla Nublar"
+          "value": "AVIATOR LARGE METAL VIOLET PHO"
         }
       ]
     }
   },
   {
     "mart": "WALMART_US",
-    "sku": "787790268468",
+    "sku": "846127195553",
     "condition": "New",
     "availability": "In_stock",
-    "wpid": "619KKN0M8TL1",
-    "upc": "787790268468",
-    "gtin": "00787790268468",
-    "productName": "AIIR Jade Hair Oil 2 fl oz",
-    "shelf": "[\"Home Page\",\"Beauty\",\"Here for Every Beauty\",\"Hair Care & Hair Tools\",\"Styling Products\"]",
-    "productType": "Hair Oils",
+    "wpid": "5ZIJB8FA6TUS",
+    "upc": "846127195553",
+    "gtin": "00846127195553",
+    "productName": "Pelican - PROTECTOR Series - Watch Band for Apple Watch Series 1/2/3/4/5/9 - 38-40mm - Camo Green",
+    "shelf": "[\"Home Page\",\"Jewelry\",\"Jewelry & Watches\"]",
+    "productType": "Wristwatch Bands",
     "price": {
       "currency": "USD",
       "amount": 39.99
     },
-    "publishedStatus": "SYSTEM_PROBLEM",
-    "unpublishedReasons": {
-      "reason": [
-        "This item was unpublished as it was listed in a cosmetics category, which is restricted to certain sellers. You can request approval to sell through Walmart's Marketplace ||enhanced vetting program@@@https://seller.Walmart.com/home?supporthub=contact-support&openForm=TDRfX0wzX1NlbGxlciBFbGlnaWJpbGl0eSBmb3IgUmVzdH||. If you believe this was done in error, submit an appeal in the Seller Center Unpublished Items page."
-      ]
-    },
-    "lifecycleStatus": "ARCHIVED",
-    "isDuplicate": false
-  },
-  {
-    "mart": "WALMART_US",
-    "sku": "ST-9PIK-UO5A",
-    "condition": "New",
-    "availability": "In_stock",
-    "wpid": "30HEV469AF50",
-    "upc": "194917655177",
-    "gtin": "00194917655177",
-    "productName": "Men's Sperry, Bahama II Sneaker",
-    "shelf": "[\"Home Page\",\"Clothing\",\"Shoes\",\"Mens Shoes\",\"Mens Slip On Shoes\",\"Mens Boat Shoes\"]",
-    "productType": "Casual & Dress Shoes",
-    "price": {
-      "currency": "USD",
-      "amount": 44.99
-    },
     "publishedStatus": "UNPUBLISHED",
     "unpublishedReasons": {
       "reason": [
@@ -2168,275 +2608,31 @@
     },
     "lifecycleStatus": "ARCHIVED",
     "isDuplicate": false,
-    "variantGroupId": "BAHLC P",
+    "variantGroupId": "pelicanwatchband",
     "variantGroupInfo": {
       "isPrimary": false,
       "groupingAttributes": [
         {
-          "name": "shoe_size",
-          "value": "11.5 M"
-        },
-        {
-          "name": "size",
-          "value": "11.5 M"
-        },
-        {
           "name": "actual_color",
-          "value": "DARK BLUE"
+          "value": "Camo Green"
         }
       ]
     }
   },
   {
     "mart": "WALMART_US",
-    "sku": "ced_48648204026140",
-    "condition": "New",
-    "availability": "In_stock",
-    "wpid": "1SYZ8PC6JG7B",
-    "upc": "840290373381",
-    "gtin": "00840290373381",
-    "productName": "APL: Athletic Propulsion Labs Women's Streamline Sneakers",
-    "shelf": "[\"Home Page\",\"Clothing\",\"Shoes\",\"Shoes\"]",
-    "productType": "Athletic Shoes",
-    "price": {
-      "currency": "USD",
-      "amount": 189.0
-    },
-    "publishedStatus": "UNPUBLISHED",
-    "unpublishedReasons": {
-      "reason": [
-        "This item is unpublished because the End Date has passed. Update the item's 'Site End Date' field to a future date to publish the item. Learn more about ||item reactivation@@@https://marketplacelearn.walmart.com/guides/Catalog%20management/Item%20management/Reactivate-an-item-in-seller-center?locale=en-US||"
-      ]
-    },
-    "lifecycleStatus": "ARCHIVED",
-    "isDuplicate": false
-  },
-  {
-    "mart": "WALMART_US",
-    "sku": "817494015317",
+    "sku": "3337875597197",
     "condition": "New",
     "availability": "Out_of_stock",
-    "wpid": "6SY5ROXXHLPK",
-    "upc": "817494015317",
-    "gtin": "00817494015317",
-    "productName": "SUNDAY RILEY Charcoal Smoothie Jelly Body Scrub 7oz - New",
-    "shelf": "[\"Home Page\",\"Personal Care\",\"Bath & Body\",\"Spa & Massage\",\"Exfoliators\"]",
-    "productType": "Body Scrubs",
+    "wpid": "1M2UOOLFKEH7",
+    "upc": "3337875597197",
+    "gtin": "03337875597197",
+    "productName": "CeraVe Foaming Cleanser For Normal to Oily Skin 236ml/8oz",
+    "shelf": "[\"Home Page\",\"Beauty\",\"Skincare\",\"Dermatologist Recommended Skincare\"]",
+    "productType": "Facial Cleansers",
     "price": {
       "currency": "USD",
-      "amount": 50.0
-    },
-    "publishedStatus": "SYSTEM_PROBLEM",
-    "unpublishedReasons": {
-      "reason": [
-        "This item has been unpublished for violating Walmart's Marketplace ||Prohibited Product Policy@@@https://marketplacelearn.walmart.com/guides/Policies%20&%20standards/Prohibited%20products%20&%20brands/Prohibited-products-policy:-overview||. If you believe this was done in error, submit an appeal in the Seller Center Unpublished Items page."
-      ]
-    },
-    "lifecycleStatus": "ARCHIVED",
-    "isDuplicate": false
-  },
-  {
-    "mart": "WALMART_US",
-    "sku": "860002984735",
-    "condition": "New",
-    "availability": "In_stock",
-    "wpid": "5OXVTXE4CMLD",
-    "upc": "860002984735",
-    "gtin": "00860002984735",
-    "productName": "Everyday By Unsun SPF 30 Mineral Tinted Face Sunscreen Lotion 1.7 oz",
-    "shelf": "[\"Home Page\",\"Beauty\",\"Skincare\",\"Sunscreen\",\"SPF 15 to 30\"]",
-    "productType": "Facial Sunscreens",
-    "price": {
-      "currency": "USD",
-      "amount": 14.99
-    },
-    "publishedStatus": "SYSTEM_PROBLEM",
-    "unpublishedReasons": {
-      "reason": [
-        "This item was unpublished as it was listed in a cosmetics category, which is restricted to certain sellers. You can request approval to sell through Walmart's Marketplace ||enhanced vetting program@@@https://seller.Walmart.com/home?supporthub=contact-support&openForm=TDRfX0wzX1NlbGxlciBFbGlnaWJpbGl0eSBmb3IgUmVzdH||. If you believe this was done in error, submit an appeal in the Seller Center Unpublished Items page."
-      ]
-    },
-    "lifecycleStatus": "RETIRED",
-    "isDuplicate": false
-  },
-  {
-    "mart": "WALMART_US",
-    "sku": "090146551641",
-    "condition": "New",
-    "availability": "Out_of_stock",
-    "wpid": "1NRCXHTS62L2",
-    "upc": "090146551641",
-    "gtin": "00090146551641",
-    "productName": "Pen+Gear White & Dark Fabric Transfer Paper, Inkjet Printable, 8.5 x 11, 15 Sheets",
-    "shelf": "[\"Home Page\",\"Office Supplies\",\"Paper\",\"Printer Paper\"]",
-    "productType": "Transfer Paper",
-    "price": {
-      "currency": "USD",
-      "amount": 13.99
-    },
-    "publishedStatus": "SYSTEM_PROBLEM",
-    "unpublishedReasons": {
-      "reason": [
-        "This item is prohibited due to a Walmart policy, in which Walmart has partnered with select brands. For more details, create a case for Partner Support and include the code BIZ. "
-      ]
-    },
-    "lifecycleStatus": "ARCHIVED",
-    "isDuplicate": false,
-    "variantGroupId": "00090146551641",
-    "variantGroupInfo": {
-      "isPrimary": true,
-      "groupingAttributes": [
-        {
-          "name": "number_of_sheets",
-          "value": "15"
-        }
-      ]
-    }
-  },
-  {
-    "mart": "WALMART_US",
-    "sku": "6F-FR9A-26HR",
-    "condition": "New",
-    "availability": "Out_of_stock",
-    "wpid": "3340FFC5WNLH",
-    "upc": "849980053848",
-    "gtin": "00849980053848",
-    "productName": "The Cr&egrave;me Shop Korean Skincare | Aloe Vera Face Sheet Mask 5 Pack",
-    "shelf": "[\"Home Page\",\"Beauty\",\"Skincare\",\"Beauty Face Masks\",\"Wash-off Face Masks\"]",
-    "productType": "Facial Masks",
-    "price": {
-      "currency": "USD",
-      "amount": 12.0
-    },
-    "publishedStatus": "SYSTEM_PROBLEM",
-    "unpublishedReasons": {
-      "reason": [
-        "This item was unpublished as it was listed in a cosmetics category, which is restricted to certain sellers. You can request approval to sell through Walmart's Marketplace ||enhanced vetting program@@@https://seller.Walmart.com/home?supporthub=contact-support&openForm=TDRfX0wzX1NlbGxlciBFbGlnaWJpbGl0eSBmb3IgUmVzdH||. If you believe this was done in error, submit an appeal in the Seller Center Unpublished Items page."
-      ]
-    },
-    "lifecycleStatus": "ARCHIVED",
-    "isDuplicate": false
-  },
-  {
-    "mart": "WALMART_US",
-    "sku": "814333026800",
-    "condition": "New",
-    "availability": "Out_of_stock",
-    "wpid": "18QKU8U5AGEE",
-    "upc": "814333026800",
-    "gtin": "00814333026800",
-    "productName": "Milk Makeup Vegan Milk Moisturizer 15ml Mini Size",
-    "shelf": "[\"Home Page\",\"Health and Medicine\",\"Sports Medicine & Injury Recovery Solution\",\"Optimize Performance\",\"Look Good, Feel Good\",\"Prep Your Skin for the Gym\"]",
-    "productType": "Facial Moisturizers",
-    "price": {
-      "currency": "USD",
-      "amount": 19.95
-    },
-    "publishedStatus": "SYSTEM_PROBLEM",
-    "unpublishedReasons": {
-      "reason": [
-        "This item was unpublished as it was listed in a cosmetics category, which is restricted to certain sellers. You can request approval to sell through Walmart's Marketplace ||enhanced vetting program@@@https://seller.Walmart.com/home?supporthub=contact-support&openForm=TDRfX0wzX1NlbGxlciBFbGlnaWJpbGl0eSBmb3IgUmVzdH||. If you believe this was done in error, submit an appeal in the Seller Center Unpublished Items page."
-      ]
-    },
-    "lifecycleStatus": "ARCHIVED",
-    "isDuplicate": false
-  },
-  {
-    "mart": "WALMART_US",
-    "sku": "22tjx",
-    "condition": "New",
-    "availability": "Out_of_stock",
-    "wpid": "5G3B0ND11OUB",
-    "upc": "643950477432",
-    "gtin": "00643950477432",
-    "productName": "OnDisplay Emma 2 Drawer Tiered Mirrored Glass Makeup/Jewelry Organizer (Silver)",
-    "shelf": "[\"Home Page\",\"Home\",\"Bath\",\"Bathroom Storage\"]",
-    "productType": "Makeup Organizers",
-    "price": {
-      "currency": "USD",
-      "amount": 49.0
-    },
-    "publishedStatus": "UNPUBLISHED",
-    "unpublishedReasons": {
-      "reason": [
-        "This item is unpublished because the End Date has passed. Update the item's 'Site End Date' field to a future date to publish the item. Learn more about ||item reactivation@@@https://marketplacelearn.walmart.com/guides/Catalog%20management/Item%20management/Reactivate-an-item-in-seller-center?locale=en-US||"
-      ]
-    },
-    "lifecycleStatus": "ARCHIVED",
-    "isDuplicate": false,
-    "variantGroupId": "1F78CF1_24007186_5C9BB2671E1E9004",
-    "variantGroupInfo": {
-      "isPrimary": true,
-      "groupingAttributes": [
-        {
-          "name": "actual_color",
-          "value": "Silver"
-        }
-      ]
-    }
-  },
-  {
-    "mart": "WALMART_US",
-    "sku": "ali5",
-    "condition": "New",
-    "availability": "Out_of_stock",
-    "wpid": "6M76PV5YHBI8",
-    "upc": "2145249899775",
-    "gtin": "02145249899775",
-    "productName": "LANEIGE Water Sleeping Mask Overnight Gel, Replenishes Skin to Brighten, Clarify, Hydrate and Strengthen Skin's Moisture Barrier with Sleep-biome technology and Squalane, 2.4 fl. oz.",
-    "shelf": "[\"Home Page\",\"Beauty\",\"Skincare\",\"Beauty Face Masks\",\"Gel Masks\"]",
-    "productType": "Facial Masks",
-    "price": {
-      "currency": "USD",
-      "amount": 23.99
-    },
-    "publishedStatus": "SYSTEM_PROBLEM",
-    "unpublishedReasons": {
-      "reason": [
-        "This item is unpublished for violating Walmart's Marketplace ||Prohibited Product Policy: Intellectual Property@@@https://marketplacelearn.walmart.com/guides/Prohibited-products-policy:-intellectual-property-(IP)||. If you believe this was done in error, submit an appeal in the Seller Center Unpublished Items page."
-      ]
-    },
-    "lifecycleStatus": "RETIRED",
-    "isDuplicate": false
-  },
-  {
-    "mart": "WALMART_US",
-    "sku": "8809416472553",
-    "condition": "New",
-    "availability": "In_stock",
-    "wpid": "5XZ6KBFTIZNK",
-    "upc": "8809416472553",
-    "gtin": "08809416472553",
-    "productName": "Tiam Vita A Bakuchiol Youth Serum, 1.35 fl oz (40 ml)",
-    "shelf": "[\"Home Page\",\"Beauty\",\"Skincare\",\"Facial Serums and Treatments\",\"Facial Treatments\"]",
-    "productType": "Face Serums",
-    "price": {
-      "currency": "USD",
-      "amount": 24.99
-    },
-    "publishedStatus": "SYSTEM_PROBLEM",
-    "unpublishedReasons": {
-      "reason": [
-        "This item was unpublished as it was listed in a cosmetics category, which is restricted to certain sellers. You can request approval to sell through Walmart's Marketplace ||enhanced vetting program@@@https://seller.Walmart.com/home?supporthub=contact-support&openForm=TDRfX0wzX1NlbGxlciBFbGlnaWJpbGl0eSBmb3IgUmVzdH||. If you believe this was done in error, submit an appeal in the Seller Center Unpublished Items page."
-      ]
-    },
-    "lifecycleStatus": "ARCHIVED",
-    "isDuplicate": false
-  },
-  {
-    "mart": "WALMART_US",
-    "sku": "18",
-    "condition": "New",
-    "availability": "Out_of_stock",
-    "wpid": "4I8YP6GEWELC",
-    "upc": "850003310442",
-    "gtin": "00850003310442",
-    "productName": "Tula Skincare Hello Radiance Illuminating Serum 1.7 fl oz",
-    "shelf": "[\"Home Page\",\"Beauty\",\"Skincare\",\"Facial Serums and Treatments\",\"Facial Treatments\"]",
-    "productType": "Face Serums",
-    "price": {
-      "currency": "USD",
-      "amount": 44.0
+      "amount": 15.99
     },
     "publishedStatus": "SYSTEM_PROBLEM",
     "unpublishedReasons": {
@@ -2450,244 +2646,26 @@
   },
   {
     "mart": "WALMART_US",
-    "sku": "J2-6SN5-N4TE",
+    "sku": "860332000235",
     "condition": "New",
-    "availability": "In_stock",
-    "wpid": "1HY3U2IBZ9A1",
-    "upc": "012443979188",
-    "gtin": "00012443979188",
-    "productName": "Cuccio Botanicals Hydrating Hand & Body Wash | Sandalwood and Sage | 8 Fluid Ounces",
-    "shelf": "[\"Home Page\",\"Personal Care\",\"Bath & Body\",\"Body Wash\",\"All Body Wash\"]",
-    "productType": "Body Washes & Shower Gels",
+    "availability": "Out_of_stock",
+    "wpid": "5PMUWFFJTESM",
+    "upc": "860332000235",
+    "gtin": "00860332000235",
+    "productName": "The Oringial MakeUp Eraser OG Pink Makeup Removing Towel",
+    "shelf": "[\"Home Page\",\"Beauty\",\"Skincare\",\"Makeup Remover\",\"MakeUp eraser\"]",
+    "productType": "Makeup Removers",
     "price": {
       "currency": "USD",
-      "amount": 29.99
+      "amount": 19.99
     },
     "publishedStatus": "SYSTEM_PROBLEM",
     "unpublishedReasons": {
       "reason": [
         "This item was unpublished as it was listed in a cosmetics category, which is restricted to certain sellers. You can request approval to sell through Walmart's Marketplace ||enhanced vetting program@@@https://seller.Walmart.com/home?supporthub=contact-support&openForm=TDRfX0wzX1NlbGxlciBFbGlnaWJpbGl0eSBmb3IgUmVzdH||. If you believe this was done in error, submit an appeal in the Seller Center Unpublished Items page."
-      ]
-    },
-    "lifecycleStatus": "ARCHIVED",
-    "isDuplicate": false,
-    "variantGroupId": "2474654802215174976",
-    "variantGroupInfo": {
-      "isPrimary": true,
-      "groupingAttributes": [
-        {
-          "name": "home_decor_style",
-          "value": "Star Black"
-        }
-      ]
-    }
-  },
-  {
-    "mart": "WALMART_US",
-    "sku": "843654006741",
-    "condition": "New",
-    "availability": "Out_of_stock",
-    "wpid": "5MSMGZ4B6YW4",
-    "upc": "843654006741",
-    "gtin": "00843654006741",
-    "productName": "Thermacell Patio Shield Mosquito Repellent with 12 Hours of Mosquito Protection, Linen",
-    "shelf": "[\"Home Page\",\"Household Essentials\",\"Pest Control\",\"All Pest Control\"]",
-    "productType": "Insect & Pest Repellent",
-    "price": {
-      "currency": "USD",
-      "amount": 24.99
-    },
-    "publishedStatus": "SYSTEM_PROBLEM",
-    "unpublishedReasons": {
-      "reason": [
-        "This item was unpublished as it was listed in a cosmetics category, which is restricted to certain sellers. You can request approval to sell through Walmart's Marketplace ||enhanced vetting program@@@https://seller.Walmart.com/home?supporthub=contact-support&openForm=TDRfX0wzX1NlbGxlciBFbGlnaWJpbGl0eSBmb3IgUmVzdH||. If you believe this was done in error, submit an appeal in the Seller Center Unpublished Items page."
-      ]
-    },
-    "lifecycleStatus": "ARCHIVED",
-    "isDuplicate": false,
-    "variantGroupId": "00843654001999",
-    "variantGroupInfo": {
-      "isPrimary": false,
-      "groupingAttributes": [
-        {
-          "name": "actual_color",
-          "value": "Linen"
-        }
-      ]
-    }
-  },
-  {
-    "mart": "WALMART_US",
-    "sku": "641590010118",
-    "condition": "New",
-    "availability": "In_stock",
-    "wpid": "6TWULXNEXT2G",
-    "upc": "641590010118",
-    "gtin": "00641590010118",
-    "productName": "4006859 AIR FILTR SYNTHTC 16X16\"\" True Blue 16 in. W X 16 in. H X 1 in. D Synthetic 7 MERV Pleated Air Filter ,(Pack of 12)",
-    "shelf": "[\"Home Page\",\"Home Improvement\",\"Heating, Cooling, & Air Quality\",\"Air Quality\",\"Furnace Air Filters\",\"Allergen Air Filters\"]",
-    "productType": "Furnace Filters",
-    "price": {
-      "currency": "USD",
-      "amount": 32.99
-    },
-    "publishedStatus": "UNPUBLISHED",
-    "unpublishedReasons": {
-      "reason": [
-        "This item is unpublished because the End Date has passed. Update the item's 'Site End Date' field to a future date to publish the item. Learn more about ||item reactivation@@@https://marketplacelearn.walmart.com/guides/Catalog%20management/Item%20management/Reactivate-an-item-in-seller-center?locale=en-US||"
-      ]
-    },
-    "lifecycleStatus": "ARCHIVED",
-    "isDuplicate": false
-  },
-  {
-    "mart": "WALMART_US",
-    "sku": "faire38",
-    "condition": "New",
-    "availability": "Out_of_stock",
-    "wpid": "4O9AF40TFXPJ",
-    "upc": "813686021272",
-    "gtin": "00813686021272",
-    "productName": "Dame Products Pom Personal Massager for Women - Flexible Bendy Targeted Stress Reliever - 5 Speeds - Rechargeable - 100% Waterproof and Body-Safe - Ice Color",
-    "shelf": "[\"Home Page\",\"Health and Medicine\",\"Massage\",\"Shop all Massagers\"]",
-    "productType": "Massagers",
-    "price": {
-      "currency": "USD",
-      "amount": 98.0
-    },
-    "publishedStatus": "UNPUBLISHED",
-    "unpublishedReasons": {
-      "reason": [
-        "This item is unpublished because the End Date has passed. Update the item's 'Site End Date' field to a future date to publish the item. Learn more about ||item reactivation@@@https://marketplacelearn.walmart.com/guides/Catalog%20management/Item%20management/Reactivate-an-item-in-seller-center?locale=en-US||"
-      ]
-    },
-    "lifecycleStatus": "ARCHIVED",
-    "isDuplicate": false,
-    "variantGroupId": "ED4-EVA-122",
-    "variantGroupInfo": {
-      "isPrimary": true,
-      "groupingAttributes": [
-        {
-          "name": "actual_color",
-          "value": "Ice"
-        }
-      ]
-    }
-  },
-  {
-    "mart": "WALMART_US",
-    "sku": "667558209745",
-    "condition": "New",
-    "availability": "Out_of_stock",
-    "wpid": "6TSM36NI7HIA",
-    "upc": "667558209745",
-    "gtin": "00667558209745",
-    "productName": "2 Pack Bath and Body Works Travel Size Body Care - 2.5 Oz 24 Hour Moisture Body Cream - Stress Relief - Eucalyptus + Spearmint",
-    "shelf": "[\"Home Page\",\"Beauty\",\"Travel Size Essentials\",\"Travel Size Bath\",\"Travel Bath and Body\"]",
-    "productType": "Body Moisturizers",
-    "price": {
-      "currency": "USD",
-      "amount": 17.8
-    },
-    "publishedStatus": "SYSTEM_PROBLEM",
-    "unpublishedReasons": {
-      "reason": [
-        "This item was unpublished as it was listed in a cosmetics category, which is restricted to certain sellers. You can request approval to sell through Walmart's Marketplace ||enhanced vetting program@@@https://seller.Walmart.com/home?supporthub=contact-support&openForm=TDRfX0wzX1NlbGxlciBFbGlnaWJpbGl0eSBmb3IgUmVzdH||. If you believe this was done in error, submit an appeal in the Seller Center Unpublished Items page."
-      ]
-    },
-    "lifecycleStatus": "ARCHIVED",
-    "isDuplicate": false
-  },
-  {
-    "mart": "WALMART_US",
-    "sku": "8809323737806",
-    "condition": "New",
-    "availability": "Out_of_stock",
-    "wpid": "71Z119SY1I8X",
-    "upc": "8809323737806",
-    "gtin": "08809323737806",
-    "productName": "It's Skin Collagen, Nutrition Eye Cream, 25 ml",
-    "shelf": "[\"Home Page\",\"Premium Beauty\",\"Premium Skincare\",\"Premium Eye Cream and Treatments\"]",
-    "productType": "Eye Creams & Serums",
-    "price": {
-      "currency": "USD",
-      "amount": 22.0
-    },
-    "publishedStatus": "SYSTEM_PROBLEM",
-    "unpublishedReasons": {
-      "reason": [
-        "This item was unpublished as it was listed in a cosmetics category, which is restricted to certain sellers. You can request approval to sell through Walmart's Marketplace ||enhanced vetting program@@@https://seller.Walmart.com/home?supporthub=contact-support&openForm=TDRfX0wzX1NlbGxlciBFbGlnaWJpbGl0eSBmb3IgUmVzdH||. If you believe this was done in error, submit an appeal in the Seller Center Unpublished Items page."
-      ]
-    },
-    "lifecycleStatus": "ARCHIVED",
-    "isDuplicate": false
-  },
-  {
-    "mart": "WALMART_US",
-    "sku": "5august",
-    "condition": "New",
-    "availability": "Out_of_stock",
-    "wpid": "3N8YKNE453PU",
-    "upc": "6958037095237",
-    "gtin": "06958037095237",
-    "productName": "Pen+Gear Acrylic Monitor Stand, Clear",
-    "shelf": "[\"Home Page\",\"Office Supplies\",\"Office Supplies & School Supplies by Brand\",\"Pen+Gear\",\"Pen+Gear Shop All\"]",
-    "productType": "Electronics Stands",
-    "price": {
-      "currency": "USD",
-      "amount": 19.96
-    },
-    "publishedStatus": "SYSTEM_PROBLEM",
-    "unpublishedReasons": {
-      "reason": [
-        "This item is prohibited due to a Walmart policy, in which Walmart has partnered with select brands. For more details, create a case for Partner Support and include the code BIZ. "
       ]
     },
     "lifecycleStatus": "RETIRED",
-    "isDuplicate": false
-  },
-  {
-    "mart": "WALMART_US",
-    "sku": "1TJX",
-    "condition": "New",
-    "availability": "Out_of_stock",
-    "wpid": "5SPTRGLOPGAX",
-    "upc": "716106840555",
-    "gtin": "00716106840555",
-    "productName": "adidas Women's Superlite Relaxed Adjustable Performance Cap, Black/White, ONE SIZE",
-    "shelf": "[\"Home Page\",\"Clothing\",\"Bags & Accessories\",\"Women's Bags & Accessories\",\"Women's Accessories\",\"Women's Hats, Gloves & Scarves\",\"Womens Hats\",\"Womens Baseball Caps\"]",
-    "productType": "Hats",
-    "price": {
-      "currency": "USD",
-      "amount": 44.99
-    },
-    "publishedStatus": "UNPUBLISHED",
-    "unpublishedReasons": {
-      "reason": [
-        "The image you've provided appears to be a placeholder.  Add a replacement 'Main Image' showing the product and resubmit the item.",
-        "This item is unpublished because the End Date has passed. Update the item's 'Site End Date' field to a future date to publish the item. Learn more about ||item reactivation@@@https://marketplacelearn.walmart.com/guides/Catalog%20management/Item%20management/Reactivate-an-item-in-seller-center?locale=en-US||"
-      ]
-    },
-    "lifecycleStatus": "ARCHIVED",
-    "isDuplicate": false
-  },
-  {
-    "mart": "WALMART_US",
-    "sku": "lg-rse-pyr",
-    "condition": "New",
-    "availability": "In_stock",
-    "wpid": "6TZV8LCMAKXT",
-    "upc": "450467070502",
-    "gtin": "00450467070502",
-    "productName": "Rose Quartz Crystal Pyramid \u2013 1.5\u20132\" Polished Pink Mineral",
-    "shelf": "[\"Home Page\",\"Home\",\"Decor\",\"Decorative Accents\",\"Decorative Stones\"]",
-    "productType": "Decorative Stones",
-    "price": {
-      "currency": "USD",
-      "amount": 39.99
-    },
-    "publishedStatus": "PUBLISHED",
-    "lifecycleStatus": "ACTIVE",
     "isDuplicate": false
   }
 ]
